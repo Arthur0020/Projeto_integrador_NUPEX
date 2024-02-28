@@ -3,7 +3,7 @@
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/52baf8e3-896e-45cc-be2c-d746ad65a993" alt="Texto Alternativo">
 </p>
 
-## O Desafio
+# O Desafio
 Idealizar e prototipar um sistema de software para automatizar o processo de avaliação e aprovação de projetos pelo Comitê de Ética no Uso de Animais do Centro Universitário de Viçosa - UNIVIÇOSA.
 
 ## Contexto
@@ -133,10 +133,27 @@ Levando em consideração os requisitos funcionais e as referências que foram n
 
 ## Protótipo de alta fidelidade
 Utilizamos o Figma como ferramenta para prototipar o sistema em alto nível para tornar a idealização feita através do Wireframe mais intuitiva e funcional, corrigindo alguns pontos e adaptando-os para fornecer a melhor experiência de uso ao usuário.
-- Protótipo de alta fidelidade
+- [Protótipo de alta fidelidade](https://www.figma.com/proto/SLbBgLLqG2Fb3pBHVnOHDK/SICEUA?type=design&node-id=1-3&t=CKfQnt72KW9yEfOt-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A3)
 - (Para que a experiência com o protótipo seja a melhor possível, ao entrar neste link no canto superior direito haverá um ícone para maximizar a tela, clique neste ícone para que o protótipo fique melhor utilizável).
 
+## Processo contínuo
+Os próximos passos para a conclusão do projeto seriam:
+- Gravar e disponibilizar ao cliente um vídeo apresentando o protótipo de ponta a ponta, com todas funcionalidades e opções de navegação pelo sistema;
+- [Vídeo explicativo do protótipo](https://drive.google.com/drive/folders/1hhH6SudeIuqPmBOMaTk80z0U9K4JsfhH)(Este é um vídeo explicativo, demonstrando a navegação por todo o protótipo deixando claro como cada funcionalidade foi abordada).
+- Realizar o Pitch do projeto ao cliente ao cliente, aos especialistas e investidores, frizando novamente todas as funcionalidades do protótipo e mostrar como este sistema, se fosse realmente desenvolvido, ajudaria os stakeholders (pessoas afetadas pelo uso de um software) a resolver os problemas tangentes a falta de informatização no processo de avaliação de projetos do CEUA-UNIVIÇOSA;
 
+# Conclusão
+Com este projeto encerramos o Projeto Integrador, organizado pela professora e orientadora Cristiane Aparecida Lana.
+Iniciado como uma proposta de projeto a atender demandas do NUPEX (Núcleo de Pesquisa e Extensão) da UNIVIÇOSA, o Projeto Integrador instigou o trabalho em equipe, organizado com a criação de empresas fictícias, tal como o entendimento de como funcionam todos os processos reais de um projeto de desenvolvimento de sotware dando ênfase a etapa da prototipação, desde a documentação até a prototipação de um sistema.
+Durante todo o projeto foi nos proporcionado a integração entre cargos na empresa, tendo como papeis principais: CEO, Scrum Master, Analista de Sistemas, Poductor Owner e Designer.
+Desta forma compreendemos como um colaborador pode ajudar o outro e o que cada um deve fazer como tarefas principais de seu cargo momentâneo.
+#
+### Este projeto foi desenvolvido pelos alunos:
+- Arthur Duarte Mendes, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/Arthur0020)
+- Vinicius Quintas Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/ViniciusQuintas)
+- Welley Henrique Dias, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/Weslley555)
+- Luiz Eduardo Silva Araújo, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+Agradecimento especial ao aluno Guilherme Galante, que ingressou neste projeto junto com a equipe e ajudou muito, mas teve que sair na metade por motivos pessoais, [Github](https://github.com/GuilhermeGalante)
 
 
 
