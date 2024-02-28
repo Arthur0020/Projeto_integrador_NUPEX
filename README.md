@@ -57,7 +57,7 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/78ba9dee-1c81-4d20-a058-96a8a12393d1" alt="Mapa de empatia Clara">
 </p> 
 
-##Identidade visual
+## Identidade visual
 Para a identidade visual do sistema usamos a própria logo já utilizada pelo CEUA da UNIVIÇOSA e adaptamos o nome transformando-o em SICEUA (Sistema de Informatização do Comitê de Ética no Uso de Animais).
 
 <p align="center">
