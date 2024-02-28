@@ -43,9 +43,99 @@ Com base nas hipóteses, storytelling e pesquisa com usuários, as personas fora
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/b272d6c3-112c-4be9-bace-66071aa0e15e" alt="Persona Miguel Almeida">
+</p>  
 
 ## Mapa de empatia
 Com o intuito de entender as necessidades e as dores dos usuários, se colocando no lugar dele, foi desenvolvido um mapa de empatia considerando as personas que foram criadas.
+
+### Mapas de empatia
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/0febe0b1-bd56-49d1-bfd5-afd17682c97f" alt="Mapa de empatia Miguel">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/78ba9dee-1c81-4d20-a058-96a8a12393d1" alt="Mapa de empatia Clara">
+</p> 
+
+##Identidade visual
+Para a identidade visual do sistema usamos a própria logo já utilizada pelo CEUA da UNIVIÇOSA e adaptamos o nome transformando-o em SICEUA (Sistema de Informatização do Comitê de Ética no Uso de Animais).
+
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/5ababbae-fbc1-43fb-a57e-372d204157f3" alt="Identidade Visual">
+</p> 
+
+## Wireframe
+Levando em consideração os requisitos funcionais e as referências que foram nos passadas pela coordenadora do CEUA, nós desenvolvemos um protótipo utilizando Wireframe da qual contém todas as funcionalidades cruciais idealizadas para que possam ser posteriormente prototipadas em alto nível.
+- Na interface inicial do site é possível se acessar 4 funcionalidades principais com 2 subfuncionalidades cada uma que levam o usuário a diferentes interfaces de acordo com a escolha de determinada funcionalidade;
+- Na interface inicial também se encontram as funcionalidades de login, da qual são divididas em 2 opções sendo a primeira o login para os pareceristas(analistas de projetos) e a segunda para a triagem de processos;
+- O login dos pareceristas contará com usuário e senha diferentes de acordo com cada membro, permitindo com que cada perfil tenha informações ou tarefas diferentes e específicas de acordo com o usuário;
+- O login da triagem será de acesso único para os secretários(as) que exercem esta função, sendo assim possuindo um usuário e senha padrão para qualquer um que o utilizar. O papel do secretário(a) é exercer a triagem dos processos que contém os projetos submetidos e atrelá-los ao parecerista disponível no momento para que seja analisado e também comunicar com o responsável pelo processo a sua aprovação ou reprovação.
+- Além das partes mais importantes do sistema como as citadas acima o usuário poderá obter informações extras relevantes através das múltuas funcionalidades do sistema, tais como consultar as leis e normas por trás da Comissão de Ética no Uso dos Animais, acessar o site da UNIVIÇOSA e outras formas de contato, acompanhar o status do processo dentre outras funcionalidades.
+
+## Wireframe completo
+### Interface inicial
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/d5761da9-5556-4d92-8816-5e19a7ae7db3" alt="Interface inicial">
+</p> 
+
+### Interface inicial e opções de escolha
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/a5fd54f9-eab4-40a4-a902-9d30916c95a3" alt="Interface inicial e opções de escolha">
+</p> 
+
+### Interface de acordo com a escolha
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/665fa65f-0f96-485e-8708-51295c9bcc73" alt="Regimento interno">
+</p> 
+
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/c1c88080-7260-4cb1-a8ca-e4889f7069ab" alt="Leis">
+</p> 
+
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/b022276c-7989-4092-9e4a-b15585e14058" alt="Normas">
+</p> 
+
+### Interface de Submissão de Projetos
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/0a876a7e-9014-45c7-803f-2e5fa68f7a53" alt="Submissão de projetos">
+</p> 
+
+### Interface de submissão de formulários relativo ao uso de animais
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/0ea7df0c-1c4b-4a49-a35e-e5622ff21b86" alt="Formulário de uso animal">
+</p> 
+
+### Interface de submissão de formulários relativo ao uso de materiais biológicos
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/b0a4474b-bbe5-4314-8dc0-d66df8c1ee68" alt="Formulário de material biológico">
+</p>
+
+### Interface principal de consulta de processo
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/5e5c8e8a-b117-48f6-bf20-4ae832bd0c83" alt="Consulta de processos">
+</p>
+
+### Interface de acompanhamento do processo
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/220928b4-ef23-4e31-aded-eb579dcd5985" alt="Acompanhamento do processo">
+</p>
+
+### Interface principal da triagem
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/61dc83f9-82fb-4969-a7d8-24c420964edf" alt="Área de trabalho da triagem">
+</p>
+
+### Interface principal de análise dos processos pelos pareceristas
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/525344bf-84ed-42ab-abb1-8e0812c6c699" alt="Área de trabalho do parecerista">
+</p>
+
+## Protótipo de alta fidelidade
+Utilizamos o Figma como ferramenta para prototipar o sistema em alto nível para tornar a idealização feita através do Wireframe mais intuitiva e funcional, corrigindo alguns pontos e adaptando-os para fornecer a melhor experiência de uso ao usuário.
+- Protótipo de alta fidelidade
+- (Para que a experiência com o protótipo seja a melhor possível, ao entrar neste link no canto superior direito haverá um ícone para maximizar a tela, clique neste ícone para que o protótipo fique melhor utilizável).
+
 
 
 
