@@ -4,7 +4,7 @@
 </p>
 
 # O Desafio
-Idealizar e prototipar um sistema de software para automatizar o processo de avaliação e aprovação de projetos pelo Comitê de Ética no Uso de Animais do Centro Universitário de Viçosa - UNIVIÇOSA.
+Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de sistema de software que tem como finalidade de promover a avaliação e aprovação de projetos pelo Comitê de Ética no Uso de Animais do Centro Universitário de Viçosa - UNIVIÇOSA.
 
 ## Contexto
 Atualmente o CEUA não possui um sistema digital para realizar suas atividades de avaliações de projetos envolvendo o uso de animais, sendo todos feitos manualmente, o que acaba por tornar todo o processo bem trabalhoso e passível de possíveis falhas além de acabar perdendo tempo com pequenos detalhes e dessa forma tornando-se não muito efetivo para os usuários. 
@@ -20,6 +20,17 @@ Professores, Pós-graduandos, Secretária, Pareceristas e Coordenadores.
 - Envio do formulário mesmo quando ele não está com todas informações necessárias preenchidas;
 - Pelo processo ser manual, a triagem entre a secretaria e os pareceristas (avaliadores de projetos) não funciona da maneira desejada;
 - Processo completamente manual, desde o preenchimento dos formulários, a triagem entre os processos a serem analisados, a analise de cada projeto e aprovação/reprovação e a comunicação entre as partes envolvidas;
+
+### Descrição do cenário atual
+No atual cenário do projeto, o protótipo realizado com base nos requisitos de alto nível é capaz de executar todas as principais interaçôes previstas nas documentaçoes de requisitos como: 
+- Possui um menu de opçôes no cabeçalho que dâo acesso as funcionalidades requeridas no documento de requisitos.
+- Uma funcionalidade de login focada nos dois diferentes níveis de acesso especificados no documento de requisitos: Login para pareceristas e login para triagem.
+- Um formulário padrão de uso de animais e um formulário para uso de amostras biológicas para o cadastro de projetos, ambos com a representaçao de preenchimento obrigatório.
+- Dentro dos formularios ha a representaçao para anexar documentos extras necessários, que tambem possuem o anexo obrigatorio.
+- Os formularios possuem a representaçao de formas de preenchimento, sendo elas, a marcação de caixas de seleção e a inclusão de texto descritivo.
+- O prototipo possui a representaçao do status do projeto para o acompanhamento.
+- Pensado exclusivamente para utilizaçao em desktop.
+- 
 
 ## Storytelling
 "Em um dia comum na vida da Professora Clara, uma das responsáveis pelo Comitê de Ética no Uso de Animais da UNIVIÇOSA, uma situação rotineira tomou um rumo inesperado. Ela se deparou, mais uma vez, com o recebimento de um formulário incompleto por um dos Pós-graduandos. Isso não era novidade, mas agravava a eficiência de todo o processo, consumindo tempo em correções e atrasando aprovações.
