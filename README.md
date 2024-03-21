@@ -22,15 +22,14 @@ Professores, Pós-graduandos, Secretária, Pareceristas e Coordenadores.
 - Processo completamente manual, desde o preenchimento dos formulários, a triagem entre os processos a serem analisados, a analise de cada projeto e aprovação/reprovação e a comunicação entre as partes envolvidas;
 
 ### Descrição do cenário e interação atual
-No atual cenário do projeto, o protótipo realizado com base nos requisitos de alto nível é capaz de executar todas as principais interaçôes previstas nas documentaçoes de requisitos como: 
-- Possui um menu de opçôes no cabeçalho que dâo acesso as funcionalidades requeridas no documento de requisitos.
+No atual cenário do projeto, o protótipo realizado com base nos requisitos de alto nível é capaz de executar todas as principais interações previstas nas documentações de requisitos como: 
+- Possui um menu de opções no cabeçalho que dão acesso as funcionalidades requeridas no documento de requisitos.
 - Uma funcionalidade de login focada nos dois diferentes níveis de acesso especificados no documento de requisitos: Login para pareceristas e login para triagem.
-- Um formulário padrão de uso de animais e um formulário para uso de amostras biológicas para o cadastro de projetos, ambos com a representaçao de preenchimento obrigatório.
-- Dentro dos formularios ha a representaçao para anexar documentos extras necessários, que tambem possuem o anexo obrigatorio.
+- Um formulário padrão de uso de animais e um formulário para uso de amostras biológicas para o cadastro de projetos, ambos com a representação de preenchimento obrigatório.
+- Dentro dos formulários há a representação para anexar documentos extras necessários, que também possuem o anexo obrigatório.
 - Os formularios possuem a representaçao de formas de preenchimento, sendo elas, a marcação de caixas de seleção e a inclusão de texto descritivo.
-- O prototipo possui a representaçao do status do projeto para o acompanhamento.
-- Pensado exclusivamente para utilizaçao web em computadores. (com responsividade?
-- 
+- O protótipo possui a representação do status do projeto para o acompanhamento.
+- Pensado exclusivamente para utilização web em computadores. (com responsividade?
 
 ## Storytelling
 "Em um dia comum na vida da Professora Clara, uma das responsáveis pelo Comitê de Ética no Uso de Animais da UNIVIÇOSA, uma situação rotineira tomou um rumo inesperado. Ela se deparou, mais uma vez, com o recebimento de um formulário incompleto por um dos Pós-graduandos. Isso não era novidade, mas agravava a eficiência de todo o processo, consumindo tempo em correções e atrasando aprovações.
