@@ -21,7 +21,7 @@ Professores, Pós-graduandos, Secretária, Pareceristas e Coordenadores.
 - Pelo processo ser manual, a triagem entre a secretaria e os pareceristas (avaliadores de projetos) não funciona da maneira desejada;
 - Processo completamente manual, desde o preenchimento dos formulários, a triagem entre os processos a serem analisados, a analise de cada projeto e aprovação/reprovação e a comunicação entre as partes envolvidas;
 
-### Descrição do cenário atual
+### Descrição do cenário e interação atual
 No atual cenário do projeto, o protótipo realizado com base nos requisitos de alto nível é capaz de executar todas as principais interaçôes previstas nas documentaçoes de requisitos como: 
 - Possui um menu de opçôes no cabeçalho que dâo acesso as funcionalidades requeridas no documento de requisitos.
 - Uma funcionalidade de login focada nos dois diferentes níveis de acesso especificados no documento de requisitos: Login para pareceristas e login para triagem.
