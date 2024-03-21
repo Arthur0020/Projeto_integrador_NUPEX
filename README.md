@@ -29,7 +29,7 @@ No atual cenário do projeto, o protótipo realizado com base nos requisitos de 
 - Dentro dos formularios ha a representaçao para anexar documentos extras necessários, que tambem possuem o anexo obrigatorio.
 - Os formularios possuem a representaçao de formas de preenchimento, sendo elas, a marcação de caixas de seleção e a inclusão de texto descritivo.
 - O prototipo possui a representaçao do status do projeto para o acompanhamento.
-- Pensado exclusivamente para utilizaçao em desktop.
+- Pensado exclusivamente para utilizaçao web em computadores. (com responsividade?
 - 
 
 ## Storytelling
