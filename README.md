@@ -11,11 +11,6 @@ Refinar requisitos de alto nível para nível técnico para auxiliar no desenvol
 Atualmente o CEUA não possui um sistema digital para realizar suas atividades de avaliações de projetos envolvendo o uso de animais, sendo todos feitos manualmente, o que acaba por tornar todo o processo bem trabalhoso e passível de possíveis falhas, além de acabar perdendo tempo com pequenos detalhes e deta forma tornando-se não muito efetivo para os usuários. 
 Existem diversas melhorias que podem ser realizadas no atual método usado pelo CEUA para que ele se torne apropriado para seus usuários finais, de tal forma com que aumente a produtividade e efetividade.
 
-# Especificação de requisitos
-Foi realizado o refinamento dos requisitos que estavam a nível de usuário para o nível de sistema para auxiliar os programadores na etapa de desenvolvimento do sistema.
-- [Documento de requisitos a nível de Usuário](https://trello.com/c/WpOicLXP/34-requisitos-detalhados)
-- [Documento de requisitos a nível de Sistema](https://trello.com/c/f9vPpcnA/25-documento-de-requisitos-refinados)
-
 # WHY?
 
 ## Quem utilizará o sistema?
@@ -48,16 +43,7 @@ A interface, agora intuitiva e comunicativa, ajudava na compreensão das etapas 
 Da frustração à eficiência, a Professora Clara e sua equipe passaram a utilizar o SICEUA (Sistema de Informatização da Comissão de Ética no Uso de Animais), um sistema que não só resolveu os problemas preexistentes, mas também simplificou e agilizou todo o processo. De formulários completos a uma interface acessível, a evolução do sistema trouxe um novo fôlego ao Comitê de Ética, tornando-o um ambiente mais produtivo e eficaz para todos os usuários."
 Essa narrativa demonstra como a implementação de um novo sistema pode transformar um processo burocrático e moroso em algo mais eficiente e produtivo, atendendo às necessidades e frustrações dos usuários finais.
 
-# Engenharia de requisitos
-
-## Reunião de validação de requisitos com o cliente
-- A reunião realizada com a cliente foi ministrada no modelo workshop para validação de requisitos do protótipo e do sistema em si.
-- Os participantes responsáveis pelo projeto fizeram perguntas para a cliente para validar se os requisitos gerais do sistema e do protótipo estavam de acordo com o que foi dito nas últimas reuniões.
-- Foram citados os requisitos um a um para que a cliente pudesse validar ou discordar, assim como foi feita a apresentação do protótipo para que a cliente definisse o que estava dentro de suas expectativas e o que poderia melhorar. 
-- A cliente deu sugestões de mudanças principalmente no protótipo para otimizar melhor a nevegabilidade e a usabilidade do sistema de forma que atenderia melhor a demanda.
-- Foram anotados os requisitos abstraidos a partir das informações retiradas da reunião e foram realizados os trabalhos de refinamento destes novos requisitos para começar a readaptar o sistema e o projeto.
-
-# WHO?
+# WHO - Analise dos Stakeholders
 
 ## Personas
 Com base nas hipóteses, storytelling e pesquisa com usuários, as personas foram criadas para representar os usuários que irão utilizar o produto:
@@ -82,6 +68,26 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/78ba9dee-1c81-4d20-a058-96a8a12393d1" alt="Mapa de empatia Clara">
 </p> 
 
+# Engenharia de requisitos
+
+## Elicitação de requisitos
+Foi realizado o refinamento dos requisitos que estavam a nível de usuário para o nível de sistema para auxiliar os programadores na etapa de desenvolvimento do sistema.
+- [Documento de requisitos a nível de Usuário](https://trello.com/c/WpOicLXP/34-requisitos-detalhados)
+- [Documento de requisitos a nível de Sistema](https://trello.com/c/f9vPpcnA/25-documento-de-requisitos-refinados)
+
+## Análise de requisitos
+
+## Especificação de requisitos
+- [Documento de requisitos a nível de Sistema](https://trello.com/c/f9vPpcnA/25-documento-de-requisitos-refinados)
+
+## Validação de requisitos com o cliente
+- A reunião realizada com a cliente foi ministrada no modelo workshop para validação de requisitos do protótipo e do sistema em si.
+- Os participantes responsáveis pelo projeto fizeram perguntas para a cliente para validar se os requisitos gerais do sistema e do protótipo estavam de acordo com o que foi dito nas últimas reuniões.
+- Foram citados os requisitos um a um para que a cliente pudesse validar ou discordar, assim como foi feita a apresentação do protótipo para que a cliente definisse o que estava dentro de suas expectativas e o que poderia melhorar. 
+- A cliente deu sugestões de mudanças principalmente no protótipo para otimizar melhor a nevegabilidade e a usabilidade do sistema de forma que atenderia melhor a demanda.
+- Foram anotados os requisitos abstraidos a partir das informações retiradas da reunião e foram realizados os trabalhos de refinamento destes novos requisitos para começar a readaptar o sistema e o projeto.
+
+# Projeto conceitual e especificação do design
 ## Identidade visual
 Para a identidade visual do sistema usamos a própria logo já utilizada pelo CEUA da UNIVIÇOSA e adaptamos o nome transformando-o em SICEUA (Sistema de Informatização do Comitê de Ética no Uso de Animais).
 
