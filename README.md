@@ -71,13 +71,16 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
 # Engenharia de requisitos
 
 ## Elicitação de requisitos
-Foi realizado o refinamento dos requisitos que estavam a nível de usuário para o nível de sistema para auxiliar os programadores na etapa de desenvolvimento do sistema.
+A Elicitação de requisitos foi realizada através de uma reunião com a cliente que discorreu sobre os problemas que causavam o entrave no atual sistema de  submissão de projetos do CEUA, estes requisitos foram documentados a nível de usuário, ou seja, à um nível de explicação mais simples que a própria cliente consegue compreender.
 - [Documento de requisitos a nível de Usuário](https://trello.com/c/WpOicLXP/34-requisitos-detalhados)
-- [Documento de requisitos a nível de Sistema](https://trello.com/c/f9vPpcnA/25-documento-de-requisitos-refinados)
 
 ## Análise de requisitos
+// Explicar a Análise de requisitos de acordo com o diagrama que estamos usando
+//Modelagem de ES - Pegar o modelo de diagrama e colocar aqui
+
 
 ## Especificação de requisitos
+Foi realizado o refinamento dos requisitos que estavam a nível de usuário para o nível de sistema para auxiliar os programadores na etapa de desenvolvimento do sistema.
 - [Documento de requisitos a nível de Sistema](https://trello.com/c/f9vPpcnA/25-documento-de-requisitos-refinados)
 
 ## Validação de requisitos com o cliente
@@ -162,10 +165,18 @@ Levando em consideração os requisitos funcionais e as referências que foram n
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/525344bf-84ed-42ab-abb1-8e0812c6c699" alt="Área de trabalho do parecerista">
 </p>
 
+# Prototipação
 ## Protótipo de alta fidelidade
 Utilizamos o Figma como ferramenta para prototipar o sistema em alto nível para tornar a idealização feita através do Wireframe mais intuitiva e funcional, corrigindo alguns pontos e adaptando-os para fornecer a melhor experiência de uso ao usuário.
 - [Protótipo de alta fidelidade](https://www.figma.com/proto/SLbBgLLqG2Fb3pBHVnOHDK/SICEUA?type=design&node-id=1-3&t=CKfQnt72KW9yEfOt-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A3)
 - (Para que a experiência com o protótipo seja a melhor possível, ao entrar neste link no canto superior direito haverá um ícone para maximizar a tela, clique neste ícone para que o protótipo fique melhor utilizável).
+
+## Avaliação do protótipo
+### Planejamento da avaliação
+
+### Execução da avaliação
+
+### Resultado da avaliação
 
 ## Processo contínuo
 Os próximos passos para a conclusão do projeto seriam:
