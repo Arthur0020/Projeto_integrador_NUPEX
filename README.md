@@ -1,4 +1,4 @@
-# Estudo de caso: Informatizar o setor do CEUA (Comissão de Ética no Uso de Animais).
+# Estudo de caso: Informatizar o setor do CEUA (Comitê de Ética no Uso de Animais).
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/52baf8e3-896e-45cc-be2c-d746ad65a993" alt="Texto Alternativo">
 </p>
