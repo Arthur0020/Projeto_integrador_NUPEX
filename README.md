@@ -3,12 +3,18 @@
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/52baf8e3-896e-45cc-be2c-d746ad65a993" alt="Texto Alternativo">
 </p>
 
-# O Desafio
+# Visão geral
+## O Desafio
 Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de sistema de software que tem como finalidade promover a avaliação e aprovação de projetos pelo Comitê de Ética no Uso de Animais do Centro Universitário de Viçosa - UNIVIÇOSA.
 
 ## Contexto
 Atualmente o CEUA não possui um sistema digital para realizar suas atividades de avaliações de projetos envolvendo o uso de animais, sendo todos feitos manualmente, o que acaba por tornar todo o processo bem trabalhoso e passível de possíveis falhas, além de acabar perdendo tempo com pequenos detalhes e deta forma tornando-se não muito efetivo para os usuários. 
 Existem diversas melhorias que podem ser realizadas no atual método usado pelo CEUA para que ele se torne apropriado para seus usuários finais, de tal forma com que aumente a produtividade e efetividade.
+
+# Especificação de requisitos
+Foi realizado o refinamento dos requisitos que estavam a nível de usuário para o nível de sistema para auxiliar os programadores na etapa de desenvolvimento do sistema.
+- [Documento de requisitos a nível de Usuário](https://trello.com/c/WpOicLXP/34-requisitos-detalhados)
+- [Documento de requisitos a nível de Sistema](https://trello.com/c/f9vPpcnA/25-documento-de-requisitos-refinados)
 
 # WHY?
 
