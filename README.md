@@ -4,16 +4,16 @@
 </p>
 
 # O Desafio
-Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de sistema de software que tem como finalidade de promover a avaliação e aprovação de projetos pelo Comitê de Ética no Uso de Animais do Centro Universitário de Viçosa - UNIVIÇOSA.
+Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de sistema de software que tem como finalidade promover a avaliação e aprovação de projetos pelo Comitê de Ética no Uso de Animais do Centro Universitário de Viçosa - UNIVIÇOSA.
 
 ## Contexto
-Atualmente o CEUA não possui um sistema digital para realizar suas atividades de avaliações de projetos envolvendo o uso de animais, sendo todos feitos manualmente, o que acaba por tornar todo o processo bem trabalhoso e passível de possíveis falhas além de acabar perdendo tempo com pequenos detalhes e dessa forma tornando-se não muito efetivo para os usuários. 
+Atualmente o CEUA não possui um sistema digital para realizar suas atividades de avaliações de projetos envolvendo o uso de animais, sendo todos feitos manualmente, o que acaba por tornar todo o processo bem trabalhoso e passível de possíveis falhas, além de acabar perdendo tempo com pequenos detalhes e deta forma tornando-se não muito efetivo para os usuários. 
 Existem diversas melhorias que podem ser realizadas no atual método usado pelo CEUA para que ele se torne apropriado para seus usuários finais, de tal forma com que aumente a produtividade e efetividade.
 
 # WHY?
 
 ## Quem utilizará o sistema?
-Neste primeiro momento de reflexão não conseguimos pensar nas pessoas que fariam o uso direto do sistema, porém em uma reunião com a coordenadora do CEUA foi nos passado a seguinte divisão dos possíveis usuários: 
+Neste primeiro momento de reflexão, não conseguimos pensar nas pessoas que fariam o uso direto do sistema, porém em uma reunião com a coordenadora do CEUA foi nos passado a seguinte divisão dos possíveis usuários: 
 Professores, Pós-graduandos, Secretária, Pareceristas e Coordenadores.
 
 ### Quais seriam os problemas?
@@ -23,13 +23,13 @@ Professores, Pós-graduandos, Secretária, Pareceristas e Coordenadores.
 
 ### Descrição do cenário e interação atual
 No atual cenário do projeto, o protótipo realizado com base nos requisitos de alto nível é capaz de executar todas as principais interações previstas nas documentações de requisitos como: 
-- Possui um menu de opções no cabeçalho que dão acesso as funcionalidades requeridas no documento de requisitos.
-- Uma funcionalidade de login focada nos dois diferentes níveis de acesso especificados no documento de requisitos: Login para pareceristas e login para triagem.
+- Um menu de opções no cabeçalho que dão acesso as funcionalidades requeridas no documento de requisitos.
+- Uma funcionalidade de login focada nos três diferentes níveis de acesso especificados no documento de requisitos: Login para pareceristas, login para triagem e login para o responsável do projeto.
 - Um formulário padrão de uso de animais e um formulário para uso de amostras biológicas para o cadastro de projetos, ambos com a representação de preenchimento obrigatório.
 - Dentro dos formulários há a representação para anexar documentos extras necessários, que também possuem o anexo obrigatório.
 - Os formularios possuem a representaçao de formas de preenchimento, sendo elas, a marcação de caixas de seleção e a inclusão de texto descritivo.
 - O protótipo possui a representação do status do projeto para o acompanhamento.
-- Pensado exclusivamente para utilização web em computadores. (com responsividade?
+- Pensado exclusivamente para utilização web em computadores.
 
 ## Storytelling
 "Em um dia comum na vida da Professora Clara, uma das responsáveis pelo Comitê de Ética no Uso de Animais da UNIVIÇOSA, uma situação rotineira tomou um rumo inesperado. Ela se deparou, mais uma vez, com o recebimento de um formulário incompleto por um dos Pós-graduandos. Isso não era novidade, mas agravava a eficiência de todo o processo, consumindo tempo em correções e atrasando aprovações.
@@ -41,6 +41,15 @@ Esse novo sistema prometia transformar a dinâmica do Comitê. Permitia o preenc
 A interface, agora intuitiva e comunicativa, ajudava na compreensão das etapas do processo, reduzindo erros e acelerando as aprovações. O sistema, finalmente, se alinhava às necessidades dos envolvidos.
 Da frustração à eficiência, a Professora Clara e sua equipe passaram a utilizar o SICEUA (Sistema de Informatização da Comissão de Ética no Uso de Animais), um sistema que não só resolveu os problemas preexistentes, mas também simplificou e agilizou todo o processo. De formulários completos a uma interface acessível, a evolução do sistema trouxe um novo fôlego ao Comitê de Ética, tornando-o um ambiente mais produtivo e eficaz para todos os usuários."
 Essa narrativa demonstra como a implementação de um novo sistema pode transformar um processo burocrático e moroso em algo mais eficiente e produtivo, atendendo às necessidades e frustrações dos usuários finais.
+
+# Engenharia de requisitos
+
+## Reunião de validação de requisitos com o cliente
+- A reunião realizada com a cliente foi ministrada no modelo workshop para validação de requisitos do protótipo e do sistema em si.
+- Os participantes responsáveis pelo projeto fizeram perguntas para a cliente para validar se os requisitos gerais do sistema e do protótipo estavam de acordo com o que foi dito nas últimas reuniões.
+- Foram citados os requisitos um a um para que a cliente pudesse validar ou discordar, assim como foi feita a apresentação do protótipo para que a cliente definisse o que estava dentro de suas expectativas e o que poderia melhorar. 
+- A cliente deu sugestões de mudanças principalmente no protótipo para otimizar melhor a nevegabilidade e a usabilidade do sistema de forma que atenderia melhor a demanda.
+- Foram anotados os requisitos abstraidos a partir das informações retiradas da reunião e foram realizados os trabalhos de refinamento destes novos requisitos para começar a readaptar o sistema e o projeto.
 
 # WHO?
 
