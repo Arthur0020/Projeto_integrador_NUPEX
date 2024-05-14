@@ -14,11 +14,14 @@ Existem diversas melhorias que podem ser realizadas no atual método usado pelo 
 
 # Ciclo de vida
 ## Ciclo de vida Estrela
-Descrever o modelo de ciclo de vida e colocar imagem do ciclo de vida escolhido (Gabi)
+O modelo estrela representa o ciclo de vida do desenvolvimento de software, focando em uma abordagem iterativa e centrada no usuário, dando ênfase na flexibilidade e na capacidade de adaptação às necessidades e feedback dos usuários durante todo o processo de desenvolvimento. O modelo de ciclo de vida estrela é especialmente útil em projetos onde os requisitos podem mudar com frequência ou onde a validação contínua com o usuário é crucial para o sucesso do sistema. Ele promove um desenvolvimento ágil e adaptativo, alinhando as práticas modernas de engenharia de software e desenvolvimento centrado no usuário.
 
+<p align="center">
+  <img src="![Modelo-de-ciclo-de-vida-Estrela](https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/163935730/c12987ce-5714-4ff3-89fd-2475e1805ace)" alt="Modelo Estrela">
+  </p>
 imagem 2
 
-# Analide de tarefas usuários e função
+# Análise de tarefas usuários e função
 ## Why?
 ### Quem utilizará o sistema?
 Neste primeiro momento de reflexão, não conseguimos pensar nas pessoas que fariam o uso direto do sistema, porém em uma reunião com a coordenadora do CEUA foi nos passado a seguinte divisão dos possíveis usuários: 
