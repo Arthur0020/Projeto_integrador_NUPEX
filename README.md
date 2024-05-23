@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/52baf8e3-896e-45cc-be2c-d746ad65a993" alt="Texto Alternativo">
 </p>
-imagem 1
+<p align="center">imagem 1</p>
 
 # Visão geral
 ## O Desafio
@@ -27,7 +27,7 @@ O modelo estrela representa o ciclo de vida do desenvolvimento de software, foca
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/163935730/c12987ce-5714-4ff3-89fd-2475e1805ace" alt="Modelo Estrela">
   </p>
-imagem 2
+<p align="center">imagem 2</p>
 
 # Análise de tarefas usuários e função
 ## Why?
@@ -72,12 +72,12 @@ Com base nas hipóteses, storytelling e pesquisa com usuários, as personas fora
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/bd56f1a8-6e96-42c9-a559-0bf2ab1c71f5" alt="Persona Clara Souza">
 </p>
-imagem 3
+<p align="center">imagem 3</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/b272d6c3-112c-4be9-bace-66071aa0e15e" alt="Persona Miguel Almeida">
 </p>  
-imagem 4
+<p align="center">imagem 4</p>
 
 ## Mapa de empatia
 Com o intuito de entender as necessidades e as dores dos usuários, se colocando no lugar dele, foi desenvolvido um mapa de empatia considerando as personas que foram criadas.
@@ -86,12 +86,12 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/0febe0b1-bd56-49d1-bfd5-afd17682c97f" alt="Mapa de empatia Miguel">
 </p>  
-imagem 5
+<p align="center">imagem 5</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/78ba9dee-1c81-4d20-a058-96a8a12393d1" alt="Mapa de empatia Clara">
 </p> 
-imagem 6
+<p align="center">imagem 6</p>
 
 ## Avaliação - analise de tarefa usuários e função
 (Fazer aqui a avaliação)
@@ -125,7 +125,7 @@ Para a identidade visual do sistema usamos a própria logo já utilizada pelo CE
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/5ababbae-fbc1-43fb-a57e-372d204157f3" alt="Identidade Visual">
 </p> 
-imagem 7
+<p align="center">imagem 7</p>
 
 ## Wireframe
 Levando em consideração os requisitos funcionais e as referências que foram nos passadas pela coordenadora do CEUA, nós desenvolvemos um protótipo utilizando Wireframe da qual contém todas as funcionalidades cruciais idealizadas para que possam ser posteriormente prototipadas em alto nível.
@@ -139,62 +139,62 @@ Levando em consideração os requisitos funcionais e as referências que foram n
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/d5761da9-5556-4d92-8816-5e19a7ae7db3" alt="Interface inicial">
 </p> 
-imagem 8
+<p align="center">imagem 8</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/a5fd54f9-eab4-40a4-a902-9d30916c95a3" alt="Interface inicial e opções de escolha">
 </p> 
-imagem 9
+<p align="center">imagem 9</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/665fa65f-0f96-485e-8708-51295c9bcc73" alt="Regimento interno">
 </p> 
-imagem 10
+<p align="center">imagem 10</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/c1c88080-7260-4cb1-a8ca-e4889f7069ab" alt="Leis">
 </p> 
-imagem 11
+<p align="center">imagem 11</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/b022276c-7989-4092-9e4a-b15585e14058" alt="Normas">
 </p> 
-imagem 12
+<p align="center">imagem 12</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/0a876a7e-9014-45c7-803f-2e5fa68f7a53" alt="Submissão de projetos">
 </p> 
-imagem 13
+<p align="center">imagem 13</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/0ea7df0c-1c4b-4a49-a35e-e5622ff21b86" alt="Formulário de uso animal">
 </p> 
-imagem 14
+<p align="center">imagem 14</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/b0a4474b-bbe5-4314-8dc0-d66df8c1ee68" alt="Formulário de material biológico">
 </p>
-imagem 15
+<p align="center">imagem 15</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/5e5c8e8a-b117-48f6-bf20-4ae832bd0c83" alt="Consulta de processos">
 </p>
-imagem 16
+<p align="center">imagem 16</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/220928b4-ef23-4e31-aded-eb579dcd5985" alt="Acompanhamento do processo">
 </p>
-imagem 17
+<p align="center">imagem 17</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/61dc83f9-82fb-4969-a7d8-24c420964edf" alt="Área de trabalho da triagem">
 </p>
-imagem 18
+<p align="center">imagem 18</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/525344bf-84ed-42ab-abb1-8e0812c6c699" alt="Área de trabalho do parecerista">
 </p>
-imagem 19
+<p align="center">imagem 19</p>
 
 # Prototipação
 ## Protótipo de alta fidelidade
