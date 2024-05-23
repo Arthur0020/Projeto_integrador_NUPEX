@@ -6,7 +6,15 @@ imagem 1
 
 # Visão geral
 ## O Desafio
-Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de sistema de software que tem como finalidade promover a avaliação e aprovação de projetos pelo Comitê de Ética no Uso de Animais do Centro Universitário de Viçosa - UNIVIÇOSA.
+O desafio central é evoluir o projeto do sistema, que está atualmente em uma fase pré-pronta, para um estágio de desenvolvimento completo e funcional. Para isso, é necessário:
+
+- Refinar os Requisitos: Realizar uma análise minuciosa das necessidades e especificações atuais, garantindo que todas as funcionalidades essenciais sejam incorporadas no novo sistema. Isso envolve a tradução de requisitos de alto nível para especificações técnicas detalhadas, que orientarão o desenvolvimento do software.
+
+- Aprimorar o Protótipo: O protótipo existente deve ser refinado e aprimorado para assegurar que ele atenda aos padrões de usabilidade e funcionalidade exigidos pelos usuários finais. Isso inclui a realização de testes de usabilidade, a incorporação de feedback dos stakeholders e a implementação de melhorias iterativas para garantir que o protótipo evolua para uma versão pronta para o desenvolvimento completo.
+
+- Garantir a Continuidade e Evolução do Projeto: O projeto deve continuar evoluindo, acompanhando as mudanças nas necessidades dos usuários e incorporando novas funcionalidades que possam surgir ao longo do tempo. Isso inclui o planejamento de um roadmap de desenvolvimento, a definição de milestones e a alocação de recursos necessários para garantir a entrega contínua de valor ao CEUA.
+
+Em resumo, o desafio neste cenário é garantir que todas as análises e documentações necessárias sejam realizadas de forma precisa e eficiente, que o protótipo seja devidamente aprimorado para estar pronto para o desenvolvimento, e que o projeto continue evoluindo de maneira a atender às necessidades dinâmicas do CEUA.
 
 ## Contexto
 Atualmente o CEUA não possui um sistema digital para realizar suas atividades de avaliações de projetos envolvendo o uso de animais, sendo todos feitos manualmente, o que acaba por tornar todo o processo bem trabalhoso e passível de possíveis falhas, além de acabar perdendo tempo com pequenos detalhes e deta forma tornando-se não muito efetivo para os usuários. 
