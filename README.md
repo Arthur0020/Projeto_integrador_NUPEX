@@ -70,14 +70,15 @@ Essa narrativa demonstra como a implementação de um novo sistema pode transfor
 Com base nas hipóteses, storytelling e pesquisa com usuários, as personas foram criadas para representar os usuários que irão utilizar o produto:
 
 <p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/b272d6c3-112c-4be9-bace-66071aa0e15e" alt="Persona Miguel Almeida">
+</p>  
+<p align="center">imagem 4</p>
+
+<p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/bd56f1a8-6e96-42c9-a559-0bf2ab1c71f5" alt="Persona Clara Souza">
 </p>
 <p align="center">imagem 3</p>
 
-<p align="center">
-  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/b272d6c3-112c-4be9-bace-66071aa0e15e" alt="Persona Miguel Almeida">
-</p>  
-<p align="center">imagem 4</p>
 
 ## Mapa de empatia
 Com o intuito de entender as necessidades e as dores dos usuários, se colocando no lugar dele, foi desenvolvido um mapa de empatia considerando as personas que foram criadas.
@@ -94,7 +95,7 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
 <p align="center">imagem 6</p>
 
 ## Avaliação - analise de tarefa usuários e função
-(Fazer aqui a avaliação)
+
 
 # Engenharia de requisitos
 
