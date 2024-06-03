@@ -214,7 +214,14 @@ Foram discutidas partes importantes da simulação do sistema como as funções 
 Foram revisados também os requisitos de alto nível do sistema para que a cliente os ouvisse e nos desse o feedback sobre o que estaria correto e o que poderíamos remodelar para encaixar dentro do que foi requisitado.
 
 ### Resultado da avaliação
-Após a realização da reunião, nossa equipe analisou a conversa da cliente com nosso representante, através de um depoimento que o representante nos deu, e concluímos que o protótipo estava em sua maior parte de acordo com que propunham os requisitos do sistema porém alguns detalhes 
+Após a realização da reunião, nossa equipe analisou a conversa da cliente com nosso representante, através de um depoimento que o representante nos deu, e concluímos que o protótipo estava em sua maior parte de acordo com que propunham os requisitos do sistema, porém alguns detalhes teriam que ser alterados para atender de forma completa os requisitos da cliente. 
+Estas mudanças e implementações foram:
+- Incluir no protótipo uma funcionalidade que permita com que o parecerista que for analisar o projeto, caso o reprove, escreva o que deve ser alterado para que o projeto seja reenviado e aceito.
+- A partir da definição do status do projeto, implementar uma função que envie um email para o responsável do projeto o deixando ciente de como está o andamento projeto.
+- Implementar uma funcionalidade que gera um código que permite acompanhar o status do projeto pelo próprio sistema em tempo real.
+- Simplificar a interface de login, integrando o que antes eram 2 sessões em somente uma, fazendo o reconhecimento do usuário de acordo com que for cadastrado pelo administrador do sistema.
+- retirar a interface de submissão de projetos do cabeçalho da página e implementá-lo dentro da tela de login, integrando-o com os dois outros níveis de acesso e fazendo todo o controle de acesso através do usuário administrador.
+Nosso grupo extraiu estas informações extras a partir da reunião e as definiu como requisitos do sistema, integrando-as nos documentos de requisitos e refinando estes requisitos para o nível de sistema.
 
 ## Processo contínuo
 Os próximos passos para a conclusão do projeto seriam:
