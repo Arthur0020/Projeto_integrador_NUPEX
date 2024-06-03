@@ -206,10 +206,15 @@ Utilizamos o Figma como ferramenta para prototipar o sistema em alto nível para
 
 ## Avaliação do protótipo
 ### Planejamento da avaliação
+Para realizarmos a avaliação do protótipo nossa equipe se reunião e, com algumas opções de avaliação, optamos pela forma mais prática de mostrar o protótipo e suas funcionalidades juntamente com os requisitos que usamos para construí-lo, sendo ela uma reunião online "meet" no modelo worshop com a cliente para o qual estamos desenvolvendo o projeto do sistema. Agendamos esta reunião com a cliente para que pudessemos apresentar o protótipo e retirar mais informações e possíveis requisitos que antes não foram ditos ou notados.
 
 ### Execução da avaliação
+Na data agendada, um dos representantes da nossa equipe iniciou a reunião e conversou com a cliente através de uma chamada de vídeo e a apresentou o nosso protótipo, dando ênfase em todas as funções presentes no protótipo que futuramente se tornariam o sistema em si.
+Foram discutidas partes importantes da simulação do sistema como as funções e interfaces das telas de login, telas de triagem e de aprovação de projetos e principalmente, a tela de submissão de um projeto.
+Foram revisados também os requisitos de alto nível do sistema para que a cliente os ouvisse e nos desse o feedback sobre o que estaria correto e o que poderíamos remodelar para encaixar dentro do que foi requisitado.
 
 ### Resultado da avaliação
+Após a realização da reunião, nossa equipe analisou a conversa da cliente com nosso representante, através de um depoimento que o representante nos deu, e concluímos que o protótipo estava em sua maior parte de acordo com que propunham os requisitos do sistema porém alguns detalhes 
 
 ## Processo contínuo
 Os próximos passos para a conclusão do projeto seriam:
