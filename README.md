@@ -182,7 +182,10 @@ Desta forma compreendemos como um colaborador pode ajudar o outro e o que cada u
 - Vinicius Quintas Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/ViniciusQuintas)
 - Welley Henrique Dias, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/Weslley555)
 - Luiz Eduardo Silva Araújo, Estudante de Desenvolvimento de Software da UNIVIÇOSA
-Agradecimento especial ao aluno Guilherme Galante, que ingressou neste projeto junto com a equipe e ajudou muito, mas teve que sair na metade por motivos pessoais, [Github](https://github.com/GuilhermeGalante)
+- Fabrício Albuquerque, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Gabriella, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Augusto, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+
 
 
 
