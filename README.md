@@ -56,7 +56,8 @@ A análise hierárquica de tarefas (AHT) é uma técnica fundamental utilizada n
 
 Ao descrever e organizar as tarefas em uma hierarquia, a AHT facilita a identificação das principais ações e decisões envolvidas no uso do sistema. Cada tarefa é decomposta em subtarefas menores e mais manejáveis, permitindo uma análise minuciosa de cada passo necessário para completar uma ação. Esta abordagem hierárquica não só ajuda a visualizar a complexidade e a sequência das atividades, mas também destaca as interdependências entre diferentes tarefas.
 
-- [Link para acessar o documento de Análise hierárquica de tarefas do SICEUA](https://drive.google.com/file/d/1i9QRQ80H8oWBMSoweJsZeOTSfryrzGLp/view)(Conforme introduzido o conceito de um documento de Análise hierárquica de tarefas, este é um diagrama com a hierarquia de tarefas que o SICEUA possue e que os usuários conseguem utilizar).
+- [Link para acessar o documento de Análise hierárquica de tarefas do SICEUA](https://drive.google.com/file/d/1i9QRQ80H8oWBMSoweJsZeOTSfryrzGLp/view)
+- Conforme introduzido o conceito de um documento de Análise hierárquica de tarefas, este é um diagrama com a hierarquia de tarefas que o SICEUA possue e que os usuários conseguem utilizar.
 
   
 ## Storytelling
