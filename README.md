@@ -51,8 +51,14 @@ No atual cenário do projeto, o protótipo realizado com base nos requisitos de 
 - Pensado exclusivamente para utilização web em computadores.
 
 ### Analise de Tarefas
-(colocar aqui a análise de tarefas) - fabricio está fazendo
+#### Analise Hierárquica de tarefas
+A análise hierárquica de tarefas (AHT) é uma técnica fundamental utilizada no campo da engenharia de software e da ergonomia para compreender e decompor as tarefas realizadas por usuários ao interagirem com um sistema. Este documento de AHT tem como objetivo mapear de maneira detalhada e estruturada todas as atividades que um usuário precisa realizar para alcançar objetivos específicos dentro de um sistema de software.
 
+Ao descrever e organizar as tarefas em uma hierarquia, a AHT facilita a identificação das principais ações e decisões envolvidas no uso do sistema. Cada tarefa é decomposta em subtarefas menores e mais manejáveis, permitindo uma análise minuciosa de cada passo necessário para completar uma ação. Esta abordagem hierárquica não só ajuda a visualizar a complexidade e a sequência das atividades, mas também destaca as interdependências entre diferentes tarefas.
+
+- [Link para acessar o documento de Análise hierárquica de tarefas do SICEUA](https://drive.google.com/file/d/1i9QRQ80H8oWBMSoweJsZeOTSfryrzGLp/view)(Conforme introduzido o conceito de um documento de Análise hierárquica de tarefas, este é um diagrama com a hierarquia de tarefas que o SICEUA possue e que os usuários conseguem utilizar).
+
+  
 ## Storytelling
 "Em um dia comum na vida da Professora Clara, uma das responsáveis pelo Comitê de Ética no Uso de Animais da UNIVIÇOSA, uma situação rotineira tomou um rumo inesperado. Ela se deparou, mais uma vez, com o recebimento de um formulário incompleto por um dos Pós-graduandos. Isso não era novidade, mas agravava a eficiência de todo o processo, consumindo tempo em correções e atrasando aprovações.
 Os dias se arrastavam com o mesmo padrão. A Secretária, sempre atarefada, era a mediadora dos pareceres, recebendo formulários, repassando a pareceristas, realizando as correções e submetendo ao Comitê. No entanto, o processo esbarrava na lentidão da realização dos passos de forma manual, até então o atual processo usado, cujo não facilitava a comunicação entre os envolvidos e consumia muito tempo e disponibilidade dos pareceristas.
