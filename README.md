@@ -147,17 +147,17 @@ De acordo com as adequações da qual a cliente sugeriu para o protótipo, foi d
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/eec3bed7-5c5c-4c71-b384-63a4f5f076a0">
 </p> 
-<p align="center">Figura - Wireframe tela do parecerista</p>
+<p align="center">Figura 9 - Wireframe tela do parecerista</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/a6ee0f78-1f49-4124-9f00-39c8d34ffc2e">
 </p> 
-<p align="center">Figura - Wireframe tela do responsável pela submissão do projeto</p>
+<p align="center">Figura 10 - Wireframe tela do responsável pela submissão do projeto</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/af4b9ba0-3e4e-4969-b00e-5f3fb4645838">
 </p> 
-<p align="center">Figura - Wireframe cadastro de usuário</p>
+<p align="center">Figura 11 - Wireframe cadastro de usuário</p>
 
 
 # Prototipação
