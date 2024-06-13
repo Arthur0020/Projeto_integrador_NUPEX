@@ -1,4 +1,4 @@
-# Estudo de caso: Informatizar o setor do CEUA (Comitê de Ética no Uso de Animais).
+# Informatização do CEUA (Comitê de Ética no Uso de Animais).
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/52baf8e3-896e-45cc-be2c-d746ad65a993" alt="Texto Alternativo">
 </p>
@@ -180,14 +180,18 @@ Iniciado como uma proposta de projeto a atender demandas do NUPEX (Núcleo de Pe
 Durante todo o projeto foi nos proporcionado a integração entre cargos na empresa, tendo como papeis principais: CEO, Scrum Master, Analista de Sistemas, Poductor Owner e Designer.
 Desta forma compreendemos como um colaborador pode ajudar o outro e o que cada um deve fazer como tarefas principais de seu cargo momentâneo.
 #
-### Este projeto foi desenvolvido pelos alunos:
+### A primeira versão deste projeto foi desenvolvido pelos alunos:
 - Arthur Duarte Mendes, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/Arthur0020)
 - Vinicius Quintas Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/ViniciusQuintas)
 - Welley Henrique Dias, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/Weslley555)
 - Luiz Eduardo Silva Araújo, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+### O aprimoramento deste projeto foi desenvolvido pelos alunos:
+- Arthur Duarte Mendes, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Vinicius Quintas Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Fabrício Albuquerque, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Gabriella, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Augusto, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Thiago Rafael, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 
 
 
