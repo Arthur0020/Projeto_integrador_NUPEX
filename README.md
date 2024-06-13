@@ -132,14 +132,32 @@ Para a identidade visual do sistema usamos a própria logo já utilizada pelo CE
 <p align="center">Figura 7 - Identidade Visual da Logo do SICEUA</p>
 
 ## Wireframe
-Levando em consideração os requisitos funcionais e as referências que foram nos passadas pela coordenadora do CEUA, nós desenvolvemos um protótipo utilizando Wireframe da qual contém todas as funcionalidades cruciais idealizadas para que possam ser posteriormente prototipadas em alto nível.
-- Na interface inicial do site é possível se acessar 4 funcionalidades principais com 2 subfuncionalidades cada uma que levam o usuário a diferentes interfaces de acordo com a escolha de determinada funcionalidade;
-- Na interface inicial também se encontram as funcionalidades de login, da qual são divididas em 2 opções sendo a primeira o login para os pareceristas(analistas de projetos) e a segunda para a triagem de processos;
-- O login dos pareceristas contará com usuário e senha diferentes de acordo com cada membro, permitindo com que cada perfil tenha informações ou tarefas diferentes e específicas de acordo com o usuário;
-- O login da triagem será de acesso único para os secretários(as) que exercem esta função, sendo assim possuindo um usuário e senha padrão para qualquer um que o utilizar. O papel do secretário(a) é exercer a triagem dos processos que contém os projetos submetidos e atrelá-los ao parecerista disponível no momento para que seja analisado e também comunicar com o responsável pelo processo a sua aprovação ou reprovação.
-- Além das partes mais importantes do sistema como as citadas acima o usuário poderá obter informações extras relevantes através das múltuas funcionalidades do sistema, tais como consultar as leis e normas por trás da Comissão de Ética no Uso dos Animais, acessar o site da UNIVIÇOSA e outras formas de contato, acompanhar o status do processo dentre outras funcionalidades.
+De acordo com as adequações da qual a cliente sugeriu para o protótipo, foi desenvolvido um wireframe de algumas telas com as mudanças que fariam diferença para a usabilidade dos stakeholders.
+- Tela de Login unificada para todos os usuários.
+- Tela do usuário parecerista e responsável pelo projeto com opções mais simples e funcionais para reencaminhar a outras informações.
+- tela para se cadastrar como usuário responsável por um projeto para submete-lo.
+
 
 ## Wireframe completo
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/5793cc5b-74af-4411-a648-250725ed8051">
+</p> 
+<p align="center">Figura 8 - Wireframe tela de login</p>
+
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/eec3bed7-5c5c-4c71-b384-63a4f5f076a0">
+</p> 
+<p align="center">Figura - Wireframe tela do parecerista</p>
+
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/a6ee0f78-1f49-4124-9f00-39c8d34ffc2e">
+</p> 
+<p align="center">Figura - Wireframe tela do responsável pela submissão do projeto</p>
+
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/af4b9ba0-3e4e-4969-b00e-5f3fb4645838">
+</p> 
+<p align="center">Figura - Wireframe cadastro de usuário</p>
 
 
 # Prototipação
