@@ -75,12 +75,12 @@ Com base nas hipóteses, storytelling e pesquisa com usuários, as personas fora
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/59603a61-a9d8-497f-b2df-4769ca9d8d91">
 </p>  
-<p align="center">Figura 4 - Persona da professora Clara</p>
+<p align="center">Figura 3 - Persona da professora Clara</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/d97ab978-4fb3-4e74-940a-d76ad7ae2ad9">
 </p>
-<p align="center">Figura 3- Persona da secretária Geovana</p>
+<p align="center">Figura 4- Persona da secretária Geovana</p>
 
 
 ## Mapa de empatia
