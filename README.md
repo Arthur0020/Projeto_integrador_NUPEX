@@ -61,15 +61,11 @@ Ao descrever e organizar as tarefas em uma hierarquia, a AHT facilita a identifi
 
   
 ## Storytelling
-"Em um dia comum na vida da Professora Clara, uma das responsáveis pelo Comitê de Ética no Uso de Animais da UNIVIÇOSA, uma situação rotineira tomou um rumo inesperado. Ela se deparou, mais uma vez, com o recebimento de um formulário incompleto por um dos Pós-graduandos. Isso não era novidade, mas agravava a eficiência de todo o processo, consumindo tempo em correções e atrasando aprovações.
-Os dias se arrastavam com o mesmo padrão. A Secretária, sempre atarefada, era a mediadora dos pareceres, recebendo formulários, repassando a pareceristas, realizando as correções e submetendo ao Comitê. No entanto, o processo esbarrava na lentidão da realização dos passos de forma manual, até então o atual processo usado, cujo não facilitava a comunicação entre os envolvidos e consumia muito tempo e disponibilidade dos pareceristas.
-Foi durante um reuniãocom os coordenadores que a necessidade de mudança se tornou mais evidente. Era crucial compreender que, para melhorar, precisavam entender quem, de fato, utilizaria o sistema. Os Professores, os Pós-graduandos, a Secretária, os Pareceristas e Coordenadores estavam na linha de frente, mas o atual método utilizado não atendia às suas necessidades de forma eficaz.
-O problema ia além do envio de formulários incompletos. Não existia um sistema de hierarquia, dificultando o acesso de diferentes usuários e dificultando a questão da privacidade em relação a qual projeto foi avaliado por qual parecerista e a relação de projetos aprovados ou reprovados,não existia uma interface, afinal o processo era feito de forma manual, dificultando a comunicabilidade, o que ocasionava ruídos na comunicação e entendimento das etapas do processo.
-Contudo, assim como em muitas histórias, esse impasse encontrou sua solução. Durante uma conferência sobre inovação em sistemas acadêmicos, a Professora Clara teve contato com uma nova abordagem. Ela descobriu um sistema revolucionário: um software que simplificava todo o processo e o tornava completamente digital.
-Esse novo sistema prometia transformar a dinâmica do Comitê. Permitia o preenchimento progressivo dos formulários, garantindo que apenas dados completos fossem enviados, poupando tempo da Secretária. Além disso, a questão de hierarquia foi solucionada com a implementação de login e senha, proporcionando uma experiência personalizada para cada tipo de usuário.
-A interface, agora intuitiva e comunicativa, ajudava na compreensão das etapas do processo, reduzindo erros e acelerando as aprovações. O sistema, finalmente, se alinhava às necessidades dos envolvidos.
-Da frustração à eficiência, a Professora Clara e sua equipe passaram a utilizar o SICEUA (Sistema de Informatização da Comissão de Ética no Uso de Animais), um sistema que não só resolveu os problemas preexistentes, mas também simplificou e agilizou todo o processo. De formulários completos a uma interface acessível, a evolução do sistema trouxe um novo fôlego ao Comitê de Ética, tornando-o um ambiente mais produtivo e eficaz para todos os usuários."
-Essa narrativa demonstra como a implementação de um novo sistema pode transformar um processo burocrático e moroso em algo mais eficiente e produtivo, atendendo às necessidades e frustrações dos usuários finais.
+"Professora Clara, ao revisar mais um lote de projetos submetidos ao CEUA, percebeu que grande parte deles apresentava falhas e informações inconsistentes. Cada erro demandava tempo adicional, tornando suas noites mais longas e seus dias mais desgastantes. Clara, que sempre valorizou a ética e a precisão, sentia-se frustrada com o sistema manual atual. Sonhava com uma plataforma que pudesse validar automaticamente as submissões, destacando quaisquer inconsistências antes mesmo de chegarem a ela. Em uma manhã, durante uma reunião do comitê, foi apresentada a uma nova solução digital que prometia revolucionar seu processo de trabalho. Com essa nova ferramenta, Clara viu suas expectativas superadas: projetos completos e corretos, uma triagem mais rápida e uma comunicação eficiente com seus colegas. Agora, ela pode focar no que realmente importa: garantir que os projetos de pesquisa sejam eticamente sólidos e de alta qualidade.
+
+Passando pela mesma situação, Geovana, secretária do CEUA, chegava ao trabalho todos os dias com uma pilha de documentos esperando por sua triagem. O processo manual não só era exaustivo como também estava sujeito a erros humanos, o que frequentemente resultava em atrasos na avaliação dos projetos. Ela passava horas ao telefone e enviando e-mails para coordenar as atividades entre os pareceristas e os pesquisadores, tornando seu dia de trabalho estressante e pouco eficiente. Certo dia, em meio a um turbilhão de tarefas, foi convidada para testar um novo sistema digital. Ao começar a usar a nova plataforma, Geovana viu seu trabalho ser transformado. O sistema automatizava a triagem dos projetos, integrava ferramentas de comunicação e oferecia uma interface intuitiva. Agora, com apenas alguns cliques, Geovana gerencia todo o fluxo de projetos de maneira eficiente e sem os antigos obstáculos. Ela finalmente pôde dedicar seu tempo a tarefas mais estratégicas, sabendo que a coordenação e a comunicação no comitê estavam fluindo perfeitamente."
+
+
 
 # WHO - Analise dos Stakeholders
 
@@ -77,14 +73,14 @@ Essa narrativa demonstra como a implementação de um novo sistema pode transfor
 Com base nas hipóteses, storytelling e pesquisa com usuários, as personas foram criadas para representar os usuários que irão utilizar o produto:
 
 <p align="center">
-  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/b272d6c3-112c-4be9-bace-66071aa0e15e" alt="Persona Miguel Almeida">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/59603a61-a9d8-497f-b2df-4769ca9d8d91">
 </p>  
-<p align="center">Figura 4 - Persona do Miguel Almeida</p>
+<p align="center">Figura 4 - Persona da professora Clara</p>
 
 <p align="center">
-  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/bd56f1a8-6e96-42c9-a559-0bf2ab1c71f5" alt="Persona Clara Souza">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/d97ab978-4fb3-4e74-940a-d76ad7ae2ad9">
 </p>
-<p align="center">Figura 3- Persona da Clara Souza</p>
+<p align="center">Figura 3- Persona da secretária Geovana</p>
 
 
 ## Mapa de empatia
@@ -92,14 +88,14 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
 
 ### Mapas de empatia
 <p align="center">
-  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/0febe0b1-bd56-49d1-bfd5-afd17682c97f" alt="Mapa de empatia Miguel">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/d5c39238-aad2-41c0-a84d-ad53221450f7">
 </p>  
-<p align="center">Figura 5 - Mapa de Empatia do Miguel Almeida</p>
+<p align="center">Figura 5 - Mapa de Empatia da professora Clara</p>
 
 <p align="center">
-  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/78ba9dee-1c81-4d20-a058-96a8a12393d1" alt="Mapa de empatia Clara">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/48c7f45a-1e8a-4657-97da-d8bdf6be4927" alt="Mapa de empatia Geovana">
 </p> 
-<p align="center">Figura 6 - Mapa de Empatia da Clara Souza</p>
+<p align="center">Figura 6 - Mapa de Empatia da secretária Geovana</p>
 
 ## Avaliação - analise de tarefa usuários e função
 
