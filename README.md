@@ -32,8 +32,7 @@ O modelo estrela representa o ciclo de vida do desenvolvimento de software, foca
 # Análise de tarefas usuários e função
 ## Why?
 ### Quem utilizará o sistema?
-Neste primeiro momento de reflexão, não conseguimos pensar nas pessoas que fariam o uso direto do sistema, porém em uma reunião com a coordenadora do CEUA foi nos passado a seguinte divisão dos possíveis usuários: 
-Professores, Pós-graduandos, Secretária, Pareceristas e Coordenadores.
+Neste primeiro momento de reflexão, não foi possível identificar as pessoas que fariam uso direto do sistema. No entanto, durante uma reunião com a coordenadora do CEUA, foi apresentada a seguinte divisão dos possíveis usuários: Professores, Pós-graduandos, Secretária, Pareceristas e Coordenadores.
 
 ### Quais seriam os problemas?
 - Envio do formulário mesmo quando ele não está com todas informações necessárias preenchidas;
@@ -61,7 +60,7 @@ Ao descrever e organizar as tarefas em uma hierarquia, a AHT facilita a identifi
 
   
 ## Storytelling
-"Professora Clara, ao revisar mais um lote de projetos submetidos ao CEUA, percebeu que grande parte deles apresentava falhas e informações inconsistentes. Cada erro demandava tempo adicional, tornando suas noites mais longas e seus dias mais desgastantes. Clara, que sempre valorizou a ética e a precisão, sentia-se frustrada com o sistema manual atual. Sonhava com uma plataforma que pudesse validar automaticamente as submissões, destacando quaisquer inconsistências antes mesmo de chegarem a ela. Em uma manhã, durante uma reunião do comitê, foi apresentada a uma nova solução digital que prometia revolucionar seu processo de trabalho. Com essa nova ferramenta, Clara viu suas expectativas superadas: projetos completos e corretos, uma triagem mais rápida e uma comunicação eficiente com seus colegas. Agora, ela pode focar no que realmente importa: garantir que os projetos de pesquisa sejam eticamente sólidos e de alta qualidade.
+Ao revisar mais um lote de projetos submetidos ao CEUA, a Professora Clara percebeu que grande parte deles apresentava falhas e informações inconsistentes. Cada erro demandava tempo adicional, tornando suas noites mais longas e seus dias mais desgastantes. Clara, que sempre valorizou a ética e a precisão, sentia-se frustrada com o sistema manual atual. Ela sonhava com uma plataforma que pudesse validar automaticamente as submissões, destacando quaisquer inconsistências antes mesmo de chegarem a ela. Em uma manhã, durante uma reunião do comitê, foi apresentada a uma nova solução digital que prometia revolucionar seu processo de trabalho. Com essa nova ferramenta, Clara viu suas expectativas superadas: projetos completos e corretos, uma triagem mais rápida e uma comunicação eficiente com seus colegas. Agora, ela pode focar no que realmente importa: garantir que os projetos de pesquisa sejam eticamente sólidos e de alta qualidade.
 
 Passando pela mesma situação, Geovana, secretária do CEUA, chegava ao trabalho todos os dias com uma pilha de documentos esperando por sua triagem. O processo manual não só era exaustivo como também estava sujeito a erros humanos, o que frequentemente resultava em atrasos na avaliação dos projetos. Ela passava horas ao telefone e enviando e-mails para coordenar as atividades entre os pareceristas e os pesquisadores, tornando seu dia de trabalho estressante e pouco eficiente. Certo dia, em meio a um turbilhão de tarefas, foi convidada para testar um novo sistema digital. Ao começar a usar a nova plataforma, Geovana viu seu trabalho ser transformado. O sistema automatizava a triagem dos projetos, integrava ferramentas de comunicação e oferecia uma interface intuitiva. Agora, com apenas alguns cliques, Geovana gerencia todo o fluxo de projetos de maneira eficiente e sem os antigos obstáculos. Ela finalmente pôde dedicar seu tempo a tarefas mais estratégicas, sabendo que a coordenação e a comunicação no comitê estavam fluindo perfeitamente."
 
@@ -162,23 +161,20 @@ De acordo com as adequações da qual a cliente sugeriu para o protótipo, foi d
 
 # Prototipação
 ## Protótipo de alta fidelidade
-Utilizamos o Figma como ferramenta para prototipar o sistema em alto nível para tornar a idealização feita através do Wireframe mais intuitiva e funcional, corrigindo alguns pontos e adaptando-os para fornecer a melhor experiência de uso ao usuário.
+Foi utilizado o Figma como ferramenta para prototipar o sistema em alto nível, visando tornar a idealização feita através do wireframe mais intuitiva e funcional. Durante este processo, foram corrigidos alguns pontos e adaptados para proporcionar a melhor experiência de uso ao usuário.
 (colocar as telas principais do prototipo e depois o link de chamada para o prototipo completo)
 - [Protótipo de alta fidelidade](https://www.figma.com/proto/3jGAXG6ZiGCrDdOMjSLHJz/SICEUA---NOVO?node-id=1-3&t=h64gtMbGVLLiwKEl-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 - (Para que a experiência com o protótipo seja a melhor possível, ao entrar neste link no canto superior direito haverá um ícone para maximizar a tela, clique neste ícone para que o protótipo fique melhor utilizável).
 
 ## Avaliação do protótipo
 ### Planejamento da avaliação
-Para realizarmos a avaliação do protótipo nossa equipe se reunião e, com algumas opções de avaliação, optamos pela forma mais prática de mostrar o protótipo e suas funcionalidades juntamente com os requisitos que usamos para construí-lo, sendo ela uma reunião online "meet" no modelo worshop com a cliente para o qual estamos desenvolvendo o projeto do sistema. Agendamos esta reunião com a cliente para que pudessemos apresentar o protótipo e retirar mais informações e possíveis requisitos que antes não foram ditos ou notados.
+Para realizar a avaliação do protótipo, a equipe se reuniu e, entre várias opções de avaliação, optou pela forma mais prática de apresentar o protótipo e suas funcionalidades juntamente com os requisitos utilizados para construí-lo. Foi organizada uma reunião online tipo workshop com a cliente para quem o projeto do sistema está sendo desenvolvido. Agendamos esta reunião com a cliente para que pudessemos apresentar o protótipo e retirar mais informações e possíveis requisitos que antes não foram ditos ou notados.
 
 ### Execução da avaliação
-Na data agendada, um dos representantes da nossa equipe iniciou a reunião e conversou com a cliente através de uma chamada de vídeo e a apresentou o nosso protótipo, dando ênfase em todas as funções presentes no protótipo que futuramente se tornariam o sistema em si.
-Foram discutidas partes importantes da simulação do sistema como as funções e interfaces das telas de login, telas de triagem e de aprovação de projetos e principalmente, a tela de submissão de um projeto.
-Foram revisados também os requisitos de alto nível do sistema para que a cliente os ouvisse e nos desse o feedback sobre o que estaria correto e o que poderíamos remodelar para encaixar dentro do que foi requisitado.
+Na data agendada, um dos representantes da equipe iniciou a reunião e conversou com a cliente através de uma chamada de vídeo, apresentando o protótipo e destacando todas as funções presentes que seriam implementadas no sistema final. Durante a reunião, foram discutidos aspectos importantes da simulação do sistema, como as funções e interfaces das telas de login, triagem, aprovação de projetos e, especialmente, a tela de submissão de projetos. Também foram revisados os requisitos de alto nível do sistema para que a cliente desse feedback sobre o que estava correto e sugerisse ajustes conforme necessário.
 
 ### Resultado da avaliação
-Após a realização da reunião, nossa equipe analisou a conversa da cliente com nosso representante, através de um depoimento que o representante nos deu, e concluímos que o protótipo estava em sua maior parte de acordo com que propunham os requisitos do sistema, porém alguns detalhes teriam que ser alterados para atender de forma completa os requisitos da cliente. 
-Estas mudanças e implementações foram:
+Após a realização da reunião, a equipe analisou a conversa da cliente com o representante por meio de um depoimento fornecido por ele. Foi concluído que o protótipo estava em sua maior parte alinhado com os requisitos do sistema propostos, porém algumas alterações seriam necessárias para atender completamente às necessidades da cliente. As mudanças e implementações acordadas foram:
 - Incluir no protótipo uma funcionalidade que permita com que o parecerista que for analisar o projeto, caso o reprove, escreva o que deve ser alterado para que o projeto seja reenviado e aceito.
 - A partir da definição do status do projeto, implementar uma função que envie um email para o responsável do projeto o deixando ciente de como está o andamento projeto.
 - Implementar uma funcionalidade que gera um código que permite acompanhar o status do projeto pelo próprio sistema em tempo real.
@@ -193,10 +189,7 @@ Os próximos passos para a conclusão do projeto seriam:
 - Realizar o Pitch do projeto ao cliente ao cliente, aos especialistas e investidores, frizando novamente todas as funcionalidades do protótipo e mostrar como este sistema, se fosse realmente desenvolvido, ajudaria os stakeholders (pessoas afetadas pelo uso de um software) a resolver os problemas tangentes a falta de informatização no processo de avaliação de projetos do CEUA-UNIVIÇOSA;
 
 # Conclusão
-Com este projeto encerramos o Projeto Integrador, organizado pela professora e orientadora Cristiane Aparecida Lana.
-Iniciado como uma proposta de projeto a atender demandas do NUPEX (Núcleo de Pesquisa e Extensão) da UNIVIÇOSA, o Projeto Integrador instigou o trabalho em equipe, organizado com a criação de empresas fictícias, tal como o entendimento de como funcionam todos os processos reais de um projeto de desenvolvimento de sotware dando ênfase a etapa da prototipação, desde a documentação até a prototipação de um sistema.
-Durante todo o projeto foi nos proporcionado a integração entre cargos na empresa, tendo como papeis principais: CEO, Scrum Master, Analista de Sistemas, Poductor Owner e Designer.
-Desta forma compreendemos como um colaborador pode ajudar o outro e o que cada um deve fazer como tarefas principais de seu cargo momentâneo.
+Com este projeto, encerramos o Projeto Integrador organizado pela professora e orientadora Cristiane Aparecida Lana. Iniciado como uma proposta de projeto para atender demandas do NUPEX (Núcleo de Pesquisa e Extensão) da UNIVIÇOSA, o Projeto Integrador promoveu o trabalho em equipe, simulando a criação de empresas fictícias e proporcionando o entendimento de todos os processos reais de um projeto de desenvolvimento de software, com ênfase na etapa de prototipação, desde a documentação até a criação de um sistema funcional. Ao longo do projeto, houve integração entre os diferentes cargos na empresa fictícia, como CEO, Scrum Master, Analista de Sistemas, Product Owner e Designer. Isso permitiu compreender como cada colaborador pode contribuir e quais são as responsabilidades principais de cada função durante o projeto.
 #
 ### A primeira versão deste projeto foi desenvolvido pelos alunos:
 - Arthur Duarte Mendes, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/Arthur0020)
