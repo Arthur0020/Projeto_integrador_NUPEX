@@ -180,6 +180,11 @@ Foi utilizado o Figma como ferramenta para prototipar o sistema em alto nível, 
 </p>
 <p align="center">Figura 14 - Interface principal da triagem</p>
 
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/1c21758e-4339-41a4-b05c-d5c2901b3618 alt="Interface principal do responsável por submeter um projeto">
+</p>
+<p align="center">Figura 15 - Interface principal do responsável por submeter um projeto"</p>
+
 
 ## Avaliação do protótipo
 ### Planejamento da avaliação
