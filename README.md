@@ -163,12 +163,13 @@ De acordo com as adequações da qual a cliente sugeriu para o protótipo, foi d
 ## Protótipo de alta fidelidade
 Foi utilizado o Figma como ferramenta para prototipar o sistema em alto nível, visando tornar a idealização feita através do wireframe mais intuitiva e funcional. Durante este processo, foram corrigidos alguns pontos e adaptados para proporcionar a melhor experiência de uso ao usuário.
 (colocar as telas principais do prototipo e depois o link de chamada para o prototipo completo)
+- O protótipo completo está no link disponibilizado abaixo e as telas principais de cada usuário do sistema estão nas figuras 12, 13, 14 e 15.
 - [Protótipo de alta fidelidade](https://www.figma.com/proto/3jGAXG6ZiGCrDdOMjSLHJz/SICEUA---NOVO?node-id=1-3&t=h64gtMbGVLLiwKEl-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/f77bde8e-d8bd-4f30-b7b4-09dcf6071e7c alt="Login principal">
 </p>
-<p align="center">Figura 12 - Login Principal</p>
+<p align="center">Figura 12 - Interface Principal de Login</p>
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/74e97e4e-c3ea-4e18-b52f-9a23c5e7c40e alt="Interface principal do parecerista">
