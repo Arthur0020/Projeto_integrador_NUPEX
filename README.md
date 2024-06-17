@@ -25,7 +25,7 @@ Existem diversas melhorias que podem ser realizadas no atual método usado pelo 
 O modelo estrela representa o ciclo de vida do desenvolvimento de software, focando em uma abordagem iterativa e centrada no usuário, dando ênfase na flexibilidade e na capacidade de adaptação às necessidades e feedback dos usuários durante todo o processo de desenvolvimento. É um modelo especialmente útil em projetos onde os requisitos podem mudar com frequência ou onde a validação contínua com o usuário é crucial para o sucesso do sistema. Ele promove um desenvolvimento ágil e adaptativo, alinhando as práticas modernas de engenharia de software e desenvolvimento centrado no usuário.
 
 <p align="center">
-  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/163935730/c12987ce-5714-4ff3-89fd-2475e1805ace" alt="Modelo Estrela">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/91a435e0-b10f-47d5-a1a7-8c9628747669" alt="Modelo Estrela">
   </p>
 <p align="center">Figura 2 - Ciclo de Vida Estrela</p>
 
