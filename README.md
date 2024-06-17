@@ -165,6 +165,21 @@ Foi utilizado o Figma como ferramenta para prototipar o sistema em alto nível, 
 (colocar as telas principais do prototipo e depois o link de chamada para o prototipo completo)
 - [Protótipo de alta fidelidade](https://www.figma.com/proto/3jGAXG6ZiGCrDdOMjSLHJz/SICEUA---NOVO?node-id=1-3&t=h64gtMbGVLLiwKEl-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 - (Para que a experiência com o protótipo seja a melhor possível, ao entrar neste link no canto superior direito haverá um ícone para maximizar a tela, clique neste ícone para que o protótipo fique melhor utilizável).
+<p align="center">
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/f368e3ce-b26f-419b-b3f4-0dd191afa996 alt="Login principal">
+  </p>
+<p align="center">Figura 12 - Login Principal</p>
+
+<p align="center"
+  <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/efd1dadf-e908-4985-8c70-8b42538966a5">
+  </p>
+<p align="center">Figura 13 - Interface Parecerista</p>
+
+<p align="center"
+ <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/6ec526ce-922b-4b67-b118-6c0de863a68b alt="Interface principal da triagem">
+  </p> 
+<p align="center">Figura 14 - Interface principal da triagem</p>
+
 
 ## Avaliação do protótipo
 ### Planejamento da avaliação
@@ -199,8 +214,8 @@ Com este projeto, encerramos o Projeto Integrador organizado pela professora e o
 ### O aprimoramento deste projeto foi desenvolvido pelos alunos:
 - Arthur Duarte Mendes, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Vinicius Quintas Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Gabriella Moreira Ribeiro, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Fabrício Albuquerque, Estudante de Desenvolvimento de Software da UNIVIÇOSA
-- Gabriella, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Augusto, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Thiago Rafael, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 
