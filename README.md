@@ -158,6 +158,8 @@ De acordo com as adequações da qual a cliente sugeriu para o protótipo, foi d
 </p> 
 <p align="center">Figura 11 - Wireframe cadastro de usuário</p>
 
+## Avaliação - Projeto conceitual e especificações do design
+-- Desenvolver
 
 # Prototipação
 ## Protótipo de alta fidelidade
