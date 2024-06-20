@@ -29,7 +29,7 @@ O modelo estrela representa o ciclo de vida do desenvolvimento de software, foca
   </p>
 <p align="center">Figura 2 - Ciclo de Vida Estrela</p>
 
-# Análise de tarefas usuários e função
+# Análise de tarefas, usuários e função
 ## Why?
 ### Quem utilizará o sistema?
 Neste primeiro momento de reflexão, não foi possível identificar as pessoas que fariam uso direto do sistema. No entanto, durante uma reunião com a coordenadora do CEUA, foi apresentada a seguinte divisão dos possíveis usuários: Professores, Pós-graduandos, Secretária, Pareceristas e Coordenadores.
@@ -60,9 +60,9 @@ Ao descrever e organizar as tarefas em uma hierarquia, a AHT facilita a identifi
 
   
 ## Storytelling
-Ao revisar mais um lote de projetos submetidos ao CEUA, a Professora Clara percebeu que grande parte deles apresentava falhas e informações inconsistentes. Cada erro demandava tempo adicional, tornando suas noites mais longas e seus dias mais desgastantes. Clara, que sempre valorizou a ética e a precisão, sentia-se frustrada com o sistema manual atual. Ela sonhava com uma plataforma que pudesse validar automaticamente as submissões, destacando quaisquer inconsistências antes mesmo de chegarem a ela. Em uma manhã, durante uma reunião do comitê, foi apresentada a uma nova solução digital que prometia revolucionar seu processo de trabalho. Com essa nova ferramenta, Clara viu suas expectativas superadas: projetos completos e corretos, uma triagem mais rápida e uma comunicação eficiente com seus colegas. Agora, ela pode focar no que realmente importa: garantir que os projetos de pesquisa sejam eticamente sólidos e de alta qualidade.
+"Ao revisar mais um lote de projetos submetidos ao CEUA, a Professora Clara percebeu que grande parte deles apresentava falhas e informações inconsistentes. Cada erro demandava tempo adicional, tornando suas noites mais longas e seus dias mais desgastantes. Clara, que sempre valorizou a ética e a precisão, sentia-se frustrada com o sistema manual atual. Ela sonhava com uma plataforma que pudesse validar automaticamente as submissões, destacando quaisquer inconsistências antes mesmo de chegarem a ela. Em uma manhã, durante uma reunião do comitê, foi apresentada a uma nova solução digital que prometia revolucionar seu processo de trabalho. Com essa nova ferramenta, Clara viu suas expectativas superadas: projetos completos e corretos, uma triagem mais rápida e uma comunicação eficiente com seus colegas. Agora, ela pode focar no que realmente importa: garantir que os projetos de pesquisa sejam eticamente sólidos e de alta qualidade."
 
-Passando pela mesma situação, Geovana, secretária do CEUA, chegava ao trabalho todos os dias com uma pilha de documentos esperando por sua triagem. O processo manual não só era exaustivo como também estava sujeito a erros humanos, o que frequentemente resultava em atrasos na avaliação dos projetos. Ela passava horas ao telefone e enviando e-mails para coordenar as atividades entre os pareceristas e os pesquisadores, tornando seu dia de trabalho estressante e pouco eficiente. Certo dia, em meio a um turbilhão de tarefas, foi convidada para testar um novo sistema digital. Ao começar a usar a nova plataforma, Geovana viu seu trabalho ser transformado. O sistema automatizava a triagem dos projetos, integrava ferramentas de comunicação e oferecia uma interface intuitiva. Agora, com apenas alguns cliques, Geovana gerencia todo o fluxo de projetos de maneira eficiente e sem os antigos obstáculos. Ela finalmente pôde dedicar seu tempo a tarefas mais estratégicas, sabendo que a coordenação e a comunicação no comitê estavam fluindo perfeitamente."
+"Passando pela mesma situação, Geovana, secretária do CEUA, chegava ao trabalho todos os dias com uma pilha de documentos esperando por sua triagem. O processo manual não só era exaustivo como também estava sujeito a erros humanos, o que frequentemente resultava em atrasos na avaliação dos projetos. Ela passava horas ao telefone e enviando e-mails para coordenar as atividades entre os pareceristas e os pesquisadores, tornando seu dia de trabalho estressante e pouco eficiente. Certo dia, em meio a um turbilhão de tarefas, foi convidada para testar um novo sistema digital. Ao começar a usar a nova plataforma, Geovana viu seu trabalho ser transformado. O sistema automatizava a triagem dos projetos, integrava ferramentas de comunicação e oferecia uma interface intuitiva. Agora, com apenas alguns cliques, Geovana gerencia todo o fluxo de projetos de maneira eficiente e sem os antigos obstáculos. Ela finalmente pôde dedicar seu tempo a tarefas mais estratégicas, sabendo que a coordenação e a comunicação no comitê estavam fluindo perfeitamente."
 
 
 
@@ -96,7 +96,17 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
 </p> 
 <p align="center">Figura 6 - Mapa de Empatia da secretária Geovana</p>
 
-## Avaliação - analise de tarefa usuários e função
+## Avaliação - Analise de tarefa, usuários e função
+### Analise de tarefas
+Para identificar as tarefas que os usuários do sistema teriam que realizar foram analisados todas as reuniões realizadas anteriormente assim como os requisitos de usuário que foram passados para a equipe.
+A validação destas tarefas foi realizada com os stakeholders, conferindo como cada tarefa que teriam que realizar para obter o resultado desejado no sistema afetaria positivamente o processo completo do usuário. O documento de análise hierárquica de tarefas ajudou a identificar todas as possíveis ações a serem realizadas no sistema, o que fornece uma visão panorâmica de uso do sistema e possibilita futuras implementações de novas funcionalidades.
+
+### Usuários
+Após fazer uma análise mais profunda dos stakeholders primários, foram remodelados os documentos de persona, mapa de empatia e storytelling, aplicando caracterísitcas que melhor representam o dia a dia eo ambiente de trabalho destes usuários.
+Ao apresentar estes novos documentos, melhor aplicados a real situação dos usuários, foi realizada a validação destes documentos com eles, que deram um feedback positivo a respeito da remodelação dos documentos, demonstrando que estão realmente mais fidedignos e melhor representando o cenário diário dos stakeholders.
+
+### Função
+
 
 
 # Engenharia de requisitos
