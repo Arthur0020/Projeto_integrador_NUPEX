@@ -198,8 +198,9 @@ A avaliação do projeto conceitual e das especificações do design não apenas
 # Prototipação
 ## Protótipo de alta fidelidade
 Foi utilizado o Figma como ferramenta para prototipar o sistema em alto nível, visando tornar a idealização feita através do wireframe mais intuitiva e funcional. Durante este processo, foram corrigidos alguns pontos e adaptados para proporcionar a melhor experiência de uso ao usuário.
-- O protótipo completo está no link disponibilizado abaixo e as telas principais de cada usuário do sistema estão nas figuras 12, 13, 14 e 15.
+- O protótipo completo está no link disponibilizado abaixo e as telas principais de cada usuário do sistema estão nas figuras 12, 13, 14 e 15. Há abaixo também um link para um vídeo utilizando o protótipo e mostrando suas principais funções.
 - [Protótipo de alta fidelidade](https://www.figma.com/proto/3jGAXG6ZiGCrDdOMjSLHJz/SICEUA---NOVO?node-id=1-3&t=h64gtMbGVLLiwKEl-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
+- [Vídeo explicativo sobre o protótipo e suas funcionalidades](link)
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/f77bde8e-d8bd-4f30-b7b4-09dcf6071e7c alt="Login principal">
@@ -222,7 +223,7 @@ Foi utilizado o Figma como ferramenta para prototipar o sistema em alto nível, 
 <p align="center">Figura 15 - Interface principal do responsável por submeter um projeto"</p>
 
 
-### Avaliação do protótipo
+## Avaliação do protótipo
 ## Avaliação parcial de requisitos e funcionalidades básicas do protótipo
 ### Metodologia da avaliação
 Para realizar a avaliação do protótipo, a equipe se reuniu e, entre várias opções de avaliação, optou pela forma mais prática de apresentar o protótipo e suas funcionalidades juntamente com os requisitos utilizados para construí-lo. Foi organizada uma reunião online tipo workshop com a cliente para quem o projeto do sistema está sendo desenvolvido. Agendamos esta reunião com a cliente para que pudessemos apresentar o protótipo e retirar mais informações e possíveis requisitos que antes não foram ditos ou notados.
@@ -239,7 +240,7 @@ Após a realização da reunião, a equipe analisou a conversa da cliente com o 
 - retirar a interface de submissão de projetos do cabeçalho da página e implementá-lo dentro da tela de login, integrando-o com os dois outros níveis de acesso e fazendo todo o controle de acesso através do usuário administrador.
 A equipe extraiu estas informações extras a partir da reunião e as definiu como requisitos do sistema, integrando-as nos documentos de requisitos e refinando estes requisitos para o nível de sistema.
 
-### Avaliação final de usabilidade pelo usuário
+## Avaliação final de usabilidade pelo usuário
 ### Metodologia de Avaliação
 Na avaliação final de usabilidade, foi realizada uma reunião online com a cliente. Durante essa sessão, a cliente foi instruída a alcançar metas específicas dentro do sistema, tais como avaliar projetos submetidos, submeter novos projetos e conferir funcionalidades básicas do protótipo. O objetivo era testar a navegabilidade intuitiva do sistema e a eficácia dos elementos de affordance implementados.
 
@@ -255,28 +256,22 @@ A cliente sugeriu que, dentro da interface de avaliação de projetos, fosse inc
 - Documentação Específica por Tipo de Projeto:
 A cliente mencionou que cada tipo de experimento possui termos e documentações específicas exigidas. Ela sugeriu que o sistema fosse capaz de identificar o tipo de projeto submetido e, automaticamente, selecionar e solicitar apenas os documentos complementares necessários para aquele tipo de projeto. Essa funcionalidade melhoraria significativamente a eficiência e a precisão no processo de submissão de projetos.
 
-### Conclusão e Próximos Passos
+### Conclusão
 A avaliação final de usabilidade foi crucial para identificar áreas de melhoria no protótipo do sistema. O feedback fornecido pela cliente não apenas validou muitas das funcionalidades implementadas, mas também destacou oportunidades importantes para refinamento e aprimoramento.
 
 ## Trabalhos futuros
-### Os próximos passos incluirão:
+### Os próximos passos do projeto incluirão
+- Adequar o projeto a todos os feedbacks relatados pelos stakeholders
 - Implementação das Sugestões: Adicionar a opção de pendência na interface de avaliação de projetos e desenvolver a funcionalidade de seleção automática de documentos complementares baseados no tipo de projeto.
 - Testes Adicionais: Realizar testes adicionais com a cliente e outros usuários para validar as novas funcionalidades e garantir que as melhorias atendam às necessidades operacionais.
 - Refinamento Contínuo: Continuar a iterar sobre o design e a funcionalidade do sistema com base no feedback contínuo dos usuários, garantindo que o sistema evolua de maneira a proporcionar a melhor experiência de usuário possível.
   
 Essa abordagem de avaliação e refinamento contínuos assegura que o sistema não apenas atenda, mas exceda as expectativas dos usuários, oferecendo uma solução robusta e intuitiva para suas necessidades.
 
-
-## Processo contínuo
-Os próximos passos para a conclusão do projeto seriam:
-- Gravar e disponibilizar ao cliente um vídeo apresentando o protótipo de ponta a ponta, com todas funcionalidades e opções de navegação pelo sistema;
-- [Vídeo explicativo do protótipo](https://drive.google.com/drive/folders/1hhH6SudeIuqPmBOMaTk80z0U9K4JsfhH)(Este é um vídeo explicativo, demonstrando a navegação por todo o protótipo deixando claro como cada funcionalidade foi abordada).
-- Realizar o Pitch do projeto ao cliente ao cliente, aos especialistas e investidores, frizando novamente todas as funcionalidades do protótipo e mostrar como este sistema, se fosse realmente desenvolvido, ajudaria os stakeholders (pessoas afetadas pelo uso de um software) a resolver os problemas tangentes a falta de informatização no processo de avaliação de projetos do CEUA-UNIVIÇOSA;
-
 # Conclusão
-Com este projeto, encerramos o Projeto Integrador organizado pela professora e orientadora Cristiane Aparecida Lana. Iniciado como uma proposta de projeto para atender demandas do NUPEX (Núcleo de Pesquisa e Extensão) da UNIVIÇOSA, o Projeto Integrador promoveu o trabalho em equipe, simulando a criação de empresas fictícias e proporcionando o entendimento de todos os processos reais de um projeto de desenvolvimento de software, com ênfase na etapa de prototipação, desde a documentação até a criação de um sistema funcional. Ao longo do projeto, houve integração entre os diferentes cargos na empresa fictícia, como CEO, Scrum Master, Analista de Sistemas, Product Owner e Designer. Isso permitiu compreender como cada colaborador pode contribuir e quais são as responsabilidades principais de cada função durante o projeto.
+Com esta continuação do primeiro projeto, encerramos o Projeto Integrador organizado pela professora e orientadora Cristiane Aparecida Lana. Iniciado como uma proposta de projeto para atender demandas do NUPEX (Núcleo de Pesquisa e Extensão) da UNIVIÇOSA, o Projeto Integrador promoveu o trabalho em equipe, simulando a criação de empresas fictícias e proporcionando o entendimento de todos os processos reais de um projeto de desenvolvimento de software, com ênfase na etapa de prototipação, desde a documentação até a criação de um sistema funcional. Ao longo do projeto, houve integração entre os diferentes cargos na empresa fictícia, como CEO, Scrum Master, Analista de Sistemas, Product Owner e Designer. Isso permitiu compreender como cada colaborador pode contribuir e quais são as responsabilidades principais de cada função durante o projeto.
 #
-### A primeira versão deste projeto foi desenvolvido pelos alunos:
+### A primeira versão deste projeto foi desenvolvida pelos alunos:
 - Arthur Duarte Mendes, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/Arthur0020)
 - Vinicius Quintas Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/ViniciusQuintas)
 - Welley Henrique Dias, Estudante de Desenvolvimento de Software da UNIVIÇOSA, [Github](https://github.com/Weslley555)
