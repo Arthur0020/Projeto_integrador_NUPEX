@@ -97,15 +97,26 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
 <p align="center">Figura 6 - Mapa de Empatia da secretária Geovana</p>
 
 ## Avaliação - Analise de tarefa, usuários e função
-### Analise de tarefas
-Para identificar as tarefas que os usuários do sistema teriam que realizar foram analisados todas as reuniões realizadas anteriormente assim como os requisitos de usuário que foram passados para a equipe.
-A validação destas tarefas foi realizada com os stakeholders, conferindo como cada tarefa que teriam que realizar para obter o resultado desejado no sistema afetaria positivamente o processo completo do usuário. O documento de análise hierárquica de tarefas ajudou a identificar todas as possíveis ações a serem realizadas no sistema, o que fornece uma visão panorâmica de uso do sistema e possibilita futuras implementações de novas funcionalidades.
+### Análise de Tarefas
+Para identificar as tarefas que os usuários do sistema precisariam realizar, foram analisadas todas as reuniões realizadas anteriormente, bem como os requisitos de usuário fornecidos à equipe. A validação dessas tarefas foi conduzida com os stakeholders por meio de uma reunião online, onde foi examinado como cada tarefa necessária para alcançar os resultados desejados no sistema impactaria positivamente o processo completo do usuário.
+
+A utilização do documento de Análise Hierárquica de Tarefas (HTA) foi fundamental para identificar todas as ações possíveis a serem realizadas no sistema. Este documento proporcionou uma visão panorâmica do uso do sistema e permitiu a identificação de oportunidades para futuras implementações de novas funcionalidades. Com essa análise detalhada, a equipe pôde garantir que todas as tarefas essenciais estavam mapeadas e alinhadas com os objetivos dos usuários.
 
 ### Usuários
-Após fazer uma análise mais profunda dos stakeholders primários, foram remodelados os documentos de persona, mapa de empatia e storytelling, aplicando caracterísitcas que melhor representam o dia a dia eo ambiente de trabalho destes usuários.
-Ao apresentar estes novos documentos, melhor aplicados a real situação dos usuários, foi realizada a validação destes documentos com eles, que deram um feedback positivo a respeito da remodelação dos documentos, demonstrando que estão realmente mais fidedignos e melhor representando o cenário diário dos stakeholders.
+Após uma análise aprofundada dos stakeholders primários, os documentos de persona, mapa de empatia e storytelling foram remodelados para refletir melhor as características e o ambiente de trabalho dos usuários. A atualização desses documentos incluiu a aplicação de atributos que representam de forma mais precisa o dia a dia dos usuários e suas interações no contexto do sistema.
+
+Esses novos documentos foram apresentados aos usuários para validação. O feedback recebido foi positivo, indicando que os documentos remodelados são agora mais fidedignos e representam com maior precisão o cenário diário dos stakeholders. Essa validação foi crucial para assegurar que a equipe de desenvolvimento compreendia plenamente as necessidades e expectativas dos usuários, permitindo um design mais centrado no usuário.
 
 ### Função
+A análise de funções focou na identificação e definição clara das funções que cada tipo de usuário desempenharia dentro do sistema. Foram considerados os seguintes aspectos:
+
+- Papéis e Responsabilidades: Definição dos diferentes papéis que os usuários assumiriam, tais como administrador, usuário final, gerente, entre outros. Cada papel foi detalhado com suas respectivas responsabilidades e permissões no sistema.
+- Fluxo de Trabalho: Mapeamento do fluxo de trabalho para cada função, assegurando que os processos fossem otimizados e eficientes. Foram identificados pontos de integração entre diferentes funções para garantir uma operação coesa do sistema.
+
+A validação dessas funções foi realizada com os stakeholders por meio de workshops e sessões de feedback, onde foi verificado se cada função estava bem definida e se atendia às necessidades operacionais dos usuários. O feedback obtido foi positivo, indicando que a definição das funções estava adequada e que o sistema estava preparado para suportar os diferentes papéis de maneira eficiente.
+
+### Conclusão
+A avaliação abrangente das tarefas, usuários e funções do sistema proporcionou uma compreensão detalhada das necessidades dos usuários e permitiu um alinhamento preciso entre as expectativas dos stakeholders e as funcionalidades do sistema. As validações realizadas garantiram que o sistema está sendo desenvolvido de acordo com os requisitos especificados e que está preparado para atender às demandas operacionais dos usuários de forma eficaz e segura.
 
 
 
@@ -169,12 +180,24 @@ De acordo com as adequações da qual a cliente sugeriu para o protótipo, foi d
 <p align="center">Figura 11 - Wireframe cadastro de usuário</p>
 
 ## Avaliação - Projeto conceitual e especificações do design
--- Desenvolver
+### Metodologia de Validação
+A validação do projeto conceitual do sistema foi conduzida com a cliente por meio de uma reunião online. Durante esta sessão, foram apresentados os detalhes das implementações realizadas, evidenciando como as abstrações do conceito do projeto foram materializadas. Este processo incluiu uma revisão minuciosa de cada especificação implementada, verificando sua conformidade com os requisitos e preferências previamente definidos pelo cliente.
+
+### Verificação das Especificações
+Para assegurar que cada aspecto do projeto atendia às expectativas do cliente, foi adotada uma abordagem sistemática de verificação das especificações. Isso envolveu a análise detalhada dos seguintes pontos:
+- Requisitos Funcionais: Verificação das funcionalidades implementadas para garantir que todas as necessidades operacionais do cliente foram contempladas.
+- Requisitos Não Funcionais: Avaliação de aspectos como performance, segurança e usabilidade para confirmar que o sistema não apenas atende aos requisitos funcionais, mas também oferece uma experiência de usuário satisfatória.
+- Preferências Estéticas e de Design: Comparação entre o design implementado e as preferências estéticas do cliente, incluindo layout, esquema de cores e interface do usuário.
+
+### Feedback da Cliente
+O feedback recebido da cliente foi amplamente positivo. Ela destacou que o conceito geral do sistema, bem como o design aplicado, estavam alinhados com suas expectativas. Este retorno positivo foi crucial para validar o trabalho da equipe de desenvolvimento, proporcionando um direcionamento claro e confirmando que o projeto está no caminho certo para atender às necessidades do cliente.
+
+### Conclusão
+A avaliação do projeto conceitual e das especificações do design não apenas validou as implementações realizadas até o momento, mas também reforçou a confiança da equipe no desenvolvimento contínuo do sistema. A clareza e o alinhamento com as expectativas do cliente são essenciais para o sucesso do projeto, e o feedback positivo obtido indica que estamos progredindo de forma satisfatória.
 
 # Prototipação
 ## Protótipo de alta fidelidade
 Foi utilizado o Figma como ferramenta para prototipar o sistema em alto nível, visando tornar a idealização feita através do wireframe mais intuitiva e funcional. Durante este processo, foram corrigidos alguns pontos e adaptados para proporcionar a melhor experiência de uso ao usuário.
-(colocar as telas principais do prototipo e depois o link de chamada para o prototipo completo)
 - O protótipo completo está no link disponibilizado abaixo e as telas principais de cada usuário do sistema estão nas figuras 12, 13, 14 e 15.
 - [Protótipo de alta fidelidade](https://www.figma.com/proto/3jGAXG6ZiGCrDdOMjSLHJz/SICEUA---NOVO?node-id=1-3&t=h64gtMbGVLLiwKEl-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 
@@ -199,8 +222,9 @@ Foi utilizado o Figma como ferramenta para prototipar o sistema em alto nível, 
 <p align="center">Figura 15 - Interface principal do responsável por submeter um projeto"</p>
 
 
-## Avaliação do protótipo
-### Planejamento da avaliação
+### Avaliação do protótipo
+## Avaliação parcial de requisitos e funcionalidades básicas do protótipo
+### Metodologia da avaliação
 Para realizar a avaliação do protótipo, a equipe se reuniu e, entre várias opções de avaliação, optou pela forma mais prática de apresentar o protótipo e suas funcionalidades juntamente com os requisitos utilizados para construí-lo. Foi organizada uma reunião online tipo workshop com a cliente para quem o projeto do sistema está sendo desenvolvido. Agendamos esta reunião com a cliente para que pudessemos apresentar o protótipo e retirar mais informações e possíveis requisitos que antes não foram ditos ou notados.
 
 ### Execução da avaliação
@@ -213,7 +237,35 @@ Após a realização da reunião, a equipe analisou a conversa da cliente com o 
 - Implementar uma funcionalidade que gera um código que permite acompanhar o status do projeto pelo próprio sistema em tempo real.
 - Simplificar a interface de login, integrando o que antes eram 2 sessões em somente uma, fazendo o reconhecimento do usuário de acordo com que for cadastrado pelo administrador do sistema.
 - retirar a interface de submissão de projetos do cabeçalho da página e implementá-lo dentro da tela de login, integrando-o com os dois outros níveis de acesso e fazendo todo o controle de acesso através do usuário administrador.
-Nosso grupo extraiu estas informações extras a partir da reunião e as definiu como requisitos do sistema, integrando-as nos documentos de requisitos e refinando estes requisitos para o nível de sistema.
+A equipe extraiu estas informações extras a partir da reunião e as definiu como requisitos do sistema, integrando-as nos documentos de requisitos e refinando estes requisitos para o nível de sistema.
+
+### Avaliação final de usabilidade pelo usuário
+### Metodologia de Avaliação
+Na avaliação final de usabilidade, foi realizada uma reunião online com a cliente. Durante essa sessão, a cliente foi instruída a alcançar metas específicas dentro do sistema, tais como avaliar projetos submetidos, submeter novos projetos e conferir funcionalidades básicas do protótipo. O objetivo era testar a navegabilidade intuitiva do sistema e a eficácia dos elementos de affordance implementados.
+
+### Execução da Avaliação
+A cliente navegou pelo protótipo utilizando sua intuição, com base nos elementos de affordance e design orientado ao usuário. Um membro da equipe estava presente para observar e explicar o comportamento do protótipo, destacando cada funcionalidade importante e como ela deveria ser utilizada. Esse acompanhamento garantiu que a cliente compreendesse plenamente cada aspecto do protótipo e pudesse fornecer feedback detalhado.
+
+### Resultado da avaliação
+Durante a avaliação, a cliente destacou vários pontos para revisão e melhoria:
+
+- Opção de Pendência na Avaliação de Projetos:
+A cliente sugeriu que, dentro da interface de avaliação de projetos, fosse incluída a opção de deixar um projeto em pendência para exigir alguma alteração específica, além das opções de aprovar ou reprovar. Esta funcionalidade permitiria um controle mais refinado e flexível sobre o processo de avaliação de projetos.
+
+- Documentação Específica por Tipo de Projeto:
+A cliente mencionou que cada tipo de experimento possui termos e documentações específicas exigidas. Ela sugeriu que o sistema fosse capaz de identificar o tipo de projeto submetido e, automaticamente, selecionar e solicitar apenas os documentos complementares necessários para aquele tipo de projeto. Essa funcionalidade melhoraria significativamente a eficiência e a precisão no processo de submissão de projetos.
+
+### Conclusão e Próximos Passos
+A avaliação final de usabilidade foi crucial para identificar áreas de melhoria no protótipo do sistema. O feedback fornecido pela cliente não apenas validou muitas das funcionalidades implementadas, mas também destacou oportunidades importantes para refinamento e aprimoramento.
+
+## Trabalhos futuros
+### Os próximos passos incluirão:
+- Implementação das Sugestões: Adicionar a opção de pendência na interface de avaliação de projetos e desenvolver a funcionalidade de seleção automática de documentos complementares baseados no tipo de projeto.
+- Testes Adicionais: Realizar testes adicionais com a cliente e outros usuários para validar as novas funcionalidades e garantir que as melhorias atendam às necessidades operacionais.
+- Refinamento Contínuo: Continuar a iterar sobre o design e a funcionalidade do sistema com base no feedback contínuo dos usuários, garantindo que o sistema evolua de maneira a proporcionar a melhor experiência de usuário possível.
+  
+Essa abordagem de avaliação e refinamento contínuos assegura que o sistema não apenas atenda, mas exceda as expectativas dos usuários, oferecendo uma solução robusta e intuitiva para suas necessidades.
+
 
 ## Processo contínuo
 Os próximos passos para a conclusão do projeto seriam:
