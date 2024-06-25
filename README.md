@@ -197,7 +197,6 @@ A avaliação do projeto conceitual e das especificações do design não apenas
 Foi utilizado o Figma como ferramenta para prototipar o sistema em alto nível, visando tornar a idealização feita através do wireframe mais intuitiva e funcional. Durante este processo, foram corrigidos alguns pontos e adaptados para proporcionar a melhor experiência de uso ao usuário.
 - O protótipo completo está no link disponibilizado abaixo e as telas principais de cada usuário do sistema estão nas figuras 12, 13, 14 e 15. Há abaixo também um link para um vídeo utilizando o protótipo e mostrando suas principais funções.
 - [Protótipo de alta fidelidade](https://www.figma.com/proto/3jGAXG6ZiGCrDdOMjSLHJz/SICEUA---NOVO?node-id=1-3&t=h64gtMbGVLLiwKEl-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
-- [Vídeo explicativo sobre o protótipo e suas funcionalidades](link)
 
 <p align="center">
   <img src="https://github.com/Arthur0020/Projeto_integrador_NUPEX/assets/131721376/f77bde8e-d8bd-4f30-b7b4-09dcf6071e7c alt="Login principal">
