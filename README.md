@@ -263,7 +263,7 @@ Durante a avaliação, o representante da equipe mostrou as funcionalidades do p
 Durante a avaliação, a cliente destacou a necessidade de revisão em um ponto específico:
 
 Opção de Pendência na Avaliação de Projetos:
-- A cliente sugeriu que, dentro da interface de avaliação de projetos e de , fosse incluída a opção de deixar um projeto em pendência para exigir alguma alteração específica, além das opções de aprovar ou reprovar. Esta funcionalidade permitiria um controle mais refinado e flexível sobre o processo de avaliação de projetos.
+- A cliente sugeriu que, dentro da interface de avaliação de projetos e de relação de projetos, fosse incluída a opção de deixar um projeto em pendência para exigir alguma alteração específica, além das opções de aprovar ou reprovar. Esta funcionalidade permitiria um controle mais refinado e flexível sobre o processo de avaliação de projetos.
 
 ### Conclusão
 A avaliação final de usabilidade foi crucial para identificar áreas de melhoria no protótipo do sistema. O feedback fornecido pelas clientes não apenas validou muitas das funcionalidades implementadas, mas também destacou oportunidades importantes para refinamento e aprimoramento.
