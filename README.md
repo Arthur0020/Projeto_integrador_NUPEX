@@ -266,7 +266,10 @@ Opção de Pendência na Avaliação de Projetos:
 - A cliente sugeriu que, dentro da interface de avaliação de projetos e de relação de projetos, fosse incluída a opção de deixar um projeto em pendência para exigir alguma alteração específica, além das opções de aprovar ou reprovar. Esta funcionalidade permitiria um controle mais refinado e flexível sobre o processo de avaliação de projetos.
 
 ### Conclusão
-A avaliação final de usabilidade foi crucial para identificar áreas de melhoria no protótipo do sistema. O feedback fornecido pelas clientes não apenas validou muitas das funcionalidades implementadas, mas também destacou oportunidades importantes para refinamento e aprimoramento.
+Após o término de cada reunião, foi utilizado o questionário SUS, que ajuda a quantificar a usabilidade de um sistema de acordo com a resposta dos usuários às perguntas feitas.
+A pontuação média final do questionário foi de 80,2 o que garante uma usabilidade do sistema considerávelmente acima da média.
+- [Clique aqui para acessar o modelo do questionário utilizado e a pontuação adquirida](https://drive.google.com/drive/folders/1Q8MI-h2RDcS_qzb9IcafoqA51uLsLLnl?usp=sharing)
+Esta avaliação final de usabilidade foi crucial para identificar áreas de melhoria no protótipo do sistema. O feedback fornecido pelas clientes não apenas validou muitas das funcionalidades implementadas, mas também destacou oportunidades importantes para refinamento e aprimoramento.
 
 ## Trabalhos futuros
 ### Os próximos passos do projeto incluirão
