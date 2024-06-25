@@ -290,7 +290,7 @@ Com esta continuação do primeiro projeto, encerramos o Projeto Integrador orga
 - Vinicius Quintas Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Gabriella Moreira Ribeiro, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Fabrício Albuquerque, Estudante de Desenvolvimento de Software da UNIVIÇOSA
-- Augusto, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Augusto Antunes, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Thiago Rafael, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 
 
