@@ -126,9 +126,6 @@ A avaliação abrangente das tarefas, usuários e funções do sistema proporcio
 A Elicitação de requisitos foi realizada através de uma reunião com a cliente que discorreu sobre os problemas que causavam o entrave no atual sistema de  submissão de projetos do CEUA, estes requisitos foram documentados a nível de usuário, ou seja, à um nível de explicação mais simples que a própria cliente consegue compreender.
 - [Documento de requisitos a nível de Usuário](https://trello.com/c/WpOicLXP/34-requisitos-detalhados)
 
-## Análise de requisitos
-//Modelagem de ES - Pegar o modelo de diagrama e colocar aqui
-
 
 ## Especificação de requisitos
 Foi realizado o refinamento dos requisitos que estavam a nível de usuário para o nível de sistema para auxiliar os programadores na etapa de desenvolvimento do sistema.
@@ -241,13 +238,13 @@ Após a realização da reunião, a equipe analisou a conversa da cliente com o 
 A equipe extraiu estas informações extras a partir da reunião e as definiu como requisitos do sistema, integrando-as nos documentos de requisitos e refinando estes requisitos para o nível de sistema.
 
 ## Avaliação final de usabilidade pelo usuário
-### Metodologia de Avaliação
+### Metodologia de Avaliação da parecerista 
 Na avaliação final de usabilidade, foi realizada uma reunião online com a cliente. Durante essa sessão, a cliente foi instruída a alcançar metas específicas dentro do sistema, tais como avaliar projetos submetidos, submeter novos projetos e conferir funcionalidades básicas do protótipo. O objetivo era testar a navegabilidade intuitiva do sistema e a eficácia dos elementos de affordance implementados.
 
-### Execução da Avaliação
+### Execução da Avaliação com a parecerista
 A cliente navegou pelo protótipo utilizando sua intuição, com base nos elementos de affordance e design orientado ao usuário. Um membro da equipe estava presente para observar e explicar o comportamento do protótipo, destacando cada funcionalidade importante e como ela deveria ser utilizada. Esse acompanhamento garantiu que a cliente compreendesse plenamente cada aspecto do protótipo e pudesse fornecer feedback detalhado.
 
-### Resultado da avaliação
+### Resultado da avaliação com a parecerista
 Durante a avaliação, a cliente destacou vários pontos para revisão e melhoria:
 
 - Opção de Pendência na Avaliação de Projetos:
@@ -256,8 +253,20 @@ A cliente sugeriu que, dentro da interface de avaliação de projetos, fosse inc
 - Documentação Específica por Tipo de Projeto:
 A cliente mencionou que cada tipo de experimento possui termos e documentações específicas exigidas. Ela sugeriu que o sistema fosse capaz de identificar o tipo de projeto submetido e, automaticamente, selecionar e solicitar apenas os documentos complementares necessários para aquele tipo de projeto. Essa funcionalidade melhoraria significativamente a eficiência e a precisão no processo de submissão de projetos.
 
+### Metodologia de Avaliação da Triagem
+Na avaliação final de usabilidade, foi realizada uma reunião presencial com a cliente. Durante essa sessão, o protótipo foi apresentado diretamente à cliente, validando as funcionalidades implementadas. O objetivo era testar a navegabilidade intuitiva do protótipo e a eficácia dos elementos de affordance implementados.
+
+### Execução da Avaliação com a Triagem
+Durante a avaliação, o representante da equipe mostrou as funcionalidades do protótipo para a cliente, conforme sua preferência. A cliente observou o protótipo enquanto o representante navegava por ele, explicando o comportamento de cada funcionalidade e destacando os elementos importantes. Esse formato garantiu que a cliente compreendesse plenamente cada aspecto do protótipo e pudesse fornecer feedback detalhado.
+
+### Resultado da Avaliação com a Triagem
+Durante a avaliação, a cliente destacou a necessidade de revisão em um ponto específico:
+
+Opção de Pendência na Avaliação de Projetos:
+- A cliente sugeriu que, dentro da interface de avaliação de projetos e de , fosse incluída a opção de deixar um projeto em pendência para exigir alguma alteração específica, além das opções de aprovar ou reprovar. Esta funcionalidade permitiria um controle mais refinado e flexível sobre o processo de avaliação de projetos.
+
 ### Conclusão
-A avaliação final de usabilidade foi crucial para identificar áreas de melhoria no protótipo do sistema. O feedback fornecido pela cliente não apenas validou muitas das funcionalidades implementadas, mas também destacou oportunidades importantes para refinamento e aprimoramento.
+A avaliação final de usabilidade foi crucial para identificar áreas de melhoria no protótipo do sistema. O feedback fornecido pelas clientes não apenas validou muitas das funcionalidades implementadas, mas também destacou oportunidades importantes para refinamento e aprimoramento.
 
 ## Trabalhos futuros
 ### Os próximos passos do projeto incluirão
